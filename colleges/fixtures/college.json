@@ -1,0 +1,18 @@
+[
+    {
+        "model": "colleges.college",
+        "pk": 1,
+        "fields": {
+            "email_domain": "umass.edu",
+            "college_name": "University of Massachusetts Amherst",
+            "state_province": "Massachusetts",
+            "country": "US",
+            "nickname": null,
+            "date_created": "2022-11-24",
+            "date_modified": "2022-11-24",
+            "slug": "university-of-massachusetts-amherst",
+            "is_approved": true,
+            "departments": []
+        }
+    }
+]

@@ -50,6 +50,8 @@ INSTALLED_APPS = [
     'crispy_forms',
     'crispy_tailwind',
     'compressor',
+    'django_filters',
+    'django_tables2',
 
     # own
     'colleges.apps.CollegesConfig',

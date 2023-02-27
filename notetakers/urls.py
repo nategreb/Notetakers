@@ -2,7 +2,7 @@ from django.contrib import admin
 from django.urls import path, include
 from django.views.generic import TemplateView
 
-from colleges.views import home
+from colleges.views import home, FilterCourseView
 
 urlpatterns = [
     path('', home, name='home'),

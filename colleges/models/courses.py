@@ -31,11 +31,11 @@ class Course(models.Model):
     )
     course_id = models.CharField(
         max_length=15,
-        verbose_name='unique ID of the course'
+        verbose_name='Course ID'
     )
     course_name = models.CharField(
         max_length=90,
-        verbose_name='name of course'
+        verbose_name='Course Name'
     )
     slug = models.SlugField(max_length=90, blank=True, null=False)
 

@@ -9,4 +9,5 @@ urlpatterns = [
     path('apply/', TemplateView.as_view(template_name='Apply.html'), name='apply'),
     path('admin/', admin.site.urls),
     path('contact/', TemplateView.as_view(template_name='Contact.html'), name='contact'),
+    path('colleges/', include('colleges.urls'), name='colleges'),
 ]

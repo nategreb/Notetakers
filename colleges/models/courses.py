@@ -1,5 +1,6 @@
 from django.db import models
 from slugify import slugify
+from django.urls import reverse
 
 from .departments import Department
 from .colleges import College
@@ -48,3 +49,6 @@ class Course(models.Model):
         # call full clean to validate
         self.full_clean()
         super().save(*args, **kwargs)
+
+    def get_absolute_url(self):
+        return reverse('colleges:course', kwargs={'course_id': self.id, 'course_slug': self.slug})

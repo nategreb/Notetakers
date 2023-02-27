@@ -25,3 +25,7 @@ class FilterCourseView(SingleTableMixin, FilterView):
     filterset_class = CourseFilter
     paginate_by = 12
 
+
+def view_course(request, course_id, course_slug):
+    # get notetakers in this speciifc class
+    return None

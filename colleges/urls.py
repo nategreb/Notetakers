@@ -1,8 +1,12 @@
-# from django.urls import path, include
-#
-# app_name = 'colleges'
-#
-# urlpatterns = [
+from django.urls import path, include
+
+from .views import view_course
+
+app_name = 'colleges'
+
+urlpatterns = [
+    path('courses/<int:course_id>/<slug:course_slug>/', view_course, name='course'),
+]
 #     path('', views.get_colleges, name='all_colleges'),
 #     path('<int:college_id>/<slug:college_slug>/', include([
 #         path('', views.college_home, name='college_home'),

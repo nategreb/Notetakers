@@ -23,6 +23,11 @@ class RequestCoursesAdmin(admin.ModelAdmin):
     pass
 
 
+class NoteTakerAdmin(admin.ModelAdmin):
+    pass
+
+
 admin.site.register(models.Course, CollegeAdmin)
 admin.site.register(models.Department, CollegeAdmin)
 admin.site.register(models.RequestCourse, CollegeAdmin)
+admin.site.register(models.Notetaker, NoteTakerAdmin)

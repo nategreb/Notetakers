@@ -1,6 +1,6 @@
 [
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 1,
     "fields": {
         "college": 1,
@@ -11,7 +11,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 2,
     "fields": {
         "college": 1,
@@ -22,7 +22,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 3,
     "fields": {
         "college": 1,
@@ -33,7 +33,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 4,
     "fields": {
         "college": 1,
@@ -44,7 +44,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 5,
     "fields": {
         "college": 1,
@@ -55,7 +55,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 6,
     "fields": {
         "college": 1,
@@ -66,7 +66,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 7,
     "fields": {
         "college": 1,
@@ -77,7 +77,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 8,
     "fields": {
         "college": 1,
@@ -88,7 +88,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 9,
     "fields": {
         "college": 1,
@@ -99,7 +99,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 10,
     "fields": {
         "college": 1,
@@ -110,7 +110,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 11,
     "fields": {
         "college": 1,
@@ -121,7 +121,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 12,
     "fields": {
         "college": 1,
@@ -132,7 +132,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 13,
     "fields": {
         "college": 1,
@@ -143,7 +143,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 14,
     "fields": {
         "college": 1,
@@ -154,7 +154,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 15,
     "fields": {
         "college": 1,
@@ -165,7 +165,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 16,
     "fields": {
         "college": 1,
@@ -176,7 +176,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 17,
     "fields": {
         "college": 1,
@@ -187,7 +187,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 18,
     "fields": {
         "college": 1,
@@ -198,7 +198,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 19,
     "fields": {
         "college": 1,
@@ -209,7 +209,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 20,
     "fields": {
         "college": 1,
@@ -220,7 +220,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 21,
     "fields": {
         "college": 1,
@@ -231,7 +231,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 22,
     "fields": {
         "college": 1,
@@ -242,7 +242,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 23,
     "fields": {
         "college": 1,
@@ -253,7 +253,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 24,
     "fields": {
         "college": 1,
@@ -264,7 +264,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 25,
     "fields": {
         "college": 1,
@@ -275,7 +275,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 26,
     "fields": {
         "college": 1,
@@ -286,7 +286,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 27,
     "fields": {
         "college": 1,
@@ -297,7 +297,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 28,
     "fields": {
         "college": 1,
@@ -308,7 +308,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 30,
     "fields": {
         "college": 1,
@@ -319,7 +319,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 31,
     "fields": {
         "college": 1,
@@ -330,7 +330,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 32,
     "fields": {
         "college": 1,
@@ -341,7 +341,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 33,
     "fields": {
         "college": 1,
@@ -352,7 +352,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 34,
     "fields": {
         "college": 1,
@@ -363,7 +363,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 35,
     "fields": {
         "college": 1,
@@ -374,7 +374,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 36,
     "fields": {
         "college": 1,
@@ -385,7 +385,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 37,
     "fields": {
         "college": 1,
@@ -396,7 +396,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 38,
     "fields": {
         "college": 1,
@@ -407,7 +407,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 39,
     "fields": {
         "college": 1,
@@ -418,7 +418,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 40,
     "fields": {
         "college": 1,
@@ -429,7 +429,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 41,
     "fields": {
         "college": 1,
@@ -440,7 +440,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 42,
     "fields": {
         "college": 1,
@@ -451,7 +451,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 43,
     "fields": {
         "college": 1,
@@ -462,7 +462,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 44,
     "fields": {
         "college": 1,
@@ -473,7 +473,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 45,
     "fields": {
         "college": 1,
@@ -484,7 +484,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 46,
     "fields": {
         "college": 1,
@@ -495,7 +495,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 47,
     "fields": {
         "college": 1,
@@ -506,7 +506,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 48,
     "fields": {
         "college": 1,
@@ -517,7 +517,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 49,
     "fields": {
         "college": 1,
@@ -528,7 +528,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 50,
     "fields": {
         "college": 1,
@@ -539,7 +539,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 51,
     "fields": {
         "college": 1,
@@ -550,7 +550,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 52,
     "fields": {
         "college": 1,
@@ -561,7 +561,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 53,
     "fields": {
         "college": 1,
@@ -572,7 +572,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 54,
     "fields": {
         "college": 1,
@@ -583,7 +583,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 55,
     "fields": {
         "college": 1,
@@ -594,7 +594,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 56,
     "fields": {
         "college": 1,
@@ -605,7 +605,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 57,
     "fields": {
         "college": 1,
@@ -616,7 +616,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 58,
     "fields": {
         "college": 1,
@@ -627,7 +627,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 59,
     "fields": {
         "college": 1,
@@ -638,7 +638,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 60,
     "fields": {
         "college": 1,
@@ -649,7 +649,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 61,
     "fields": {
         "college": 1,
@@ -660,7 +660,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 62,
     "fields": {
         "college": 1,
@@ -671,7 +671,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 63,
     "fields": {
         "college": 1,
@@ -682,7 +682,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 64,
     "fields": {
         "college": 1,
@@ -693,7 +693,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 65,
     "fields": {
         "college": 1,
@@ -704,7 +704,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 66,
     "fields": {
         "college": 1,
@@ -715,7 +715,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 67,
     "fields": {
         "college": 1,
@@ -726,7 +726,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 68,
     "fields": {
         "college": 1,
@@ -737,7 +737,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 69,
     "fields": {
         "college": 1,
@@ -748,7 +748,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 70,
     "fields": {
         "college": 1,
@@ -759,7 +759,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 71,
     "fields": {
         "college": 1,
@@ -770,7 +770,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 72,
     "fields": {
         "college": 1,
@@ -781,7 +781,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 73,
     "fields": {
         "college": 1,
@@ -792,7 +792,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 74,
     "fields": {
         "college": 1,
@@ -803,7 +803,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 75,
     "fields": {
         "college": 1,
@@ -814,7 +814,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 76,
     "fields": {
         "college": 1,
@@ -825,7 +825,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 77,
     "fields": {
         "college": 1,
@@ -836,7 +836,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 78,
     "fields": {
         "college": 1,
@@ -847,7 +847,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 79,
     "fields": {
         "college": 1,
@@ -858,7 +858,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 80,
     "fields": {
         "college": 1,
@@ -869,7 +869,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 81,
     "fields": {
         "college": 1,
@@ -880,7 +880,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 82,
     "fields": {
         "college": 1,
@@ -891,7 +891,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 83,
     "fields": {
         "college": 1,
@@ -902,7 +902,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 84,
     "fields": {
         "college": 1,
@@ -913,7 +913,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 85,
     "fields": {
         "college": 1,
@@ -924,7 +924,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 86,
     "fields": {
         "college": 1,
@@ -935,7 +935,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 87,
     "fields": {
         "college": 1,
@@ -946,7 +946,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 88,
     "fields": {
         "college": 1,
@@ -957,7 +957,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 89,
     "fields": {
         "college": 1,
@@ -968,7 +968,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 90,
     "fields": {
         "college": 1,
@@ -979,7 +979,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 91,
     "fields": {
         "college": 1,
@@ -990,7 +990,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 92,
     "fields": {
         "college": 1,
@@ -1001,7 +1001,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 93,
     "fields": {
         "college": 1,
@@ -1012,7 +1012,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 94,
     "fields": {
         "college": 1,
@@ -1023,7 +1023,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 95,
     "fields": {
         "college": 1,
@@ -1034,7 +1034,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 96,
     "fields": {
         "college": 1,
@@ -1045,7 +1045,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 97,
     "fields": {
         "college": 1,
@@ -1056,7 +1056,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 98,
     "fields": {
         "college": 1,
@@ -1067,7 +1067,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 99,
     "fields": {
         "college": 1,
@@ -1078,7 +1078,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 100,
     "fields": {
         "college": 1,
@@ -1089,7 +1089,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 101,
     "fields": {
         "college": 1,
@@ -1100,7 +1100,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 102,
     "fields": {
         "college": 1,
@@ -1111,7 +1111,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 103,
     "fields": {
         "college": 1,
@@ -1122,7 +1122,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 104,
     "fields": {
         "college": 1,
@@ -1133,7 +1133,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 105,
     "fields": {
         "college": 1,
@@ -1144,7 +1144,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 106,
     "fields": {
         "college": 1,
@@ -1155,7 +1155,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 107,
     "fields": {
         "college": 1,
@@ -1166,7 +1166,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 108,
     "fields": {
         "college": 1,
@@ -1177,7 +1177,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 109,
     "fields": {
         "college": 1,
@@ -1188,7 +1188,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 110,
     "fields": {
         "college": 1,
@@ -1199,7 +1199,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 111,
     "fields": {
         "college": 1,
@@ -1210,7 +1210,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 112,
     "fields": {
         "college": 1,
@@ -1221,7 +1221,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 113,
     "fields": {
         "college": 1,
@@ -1232,7 +1232,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 114,
     "fields": {
         "college": 1,
@@ -1243,7 +1243,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 115,
     "fields": {
         "college": 1,
@@ -1254,7 +1254,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 116,
     "fields": {
         "college": 1,
@@ -1265,7 +1265,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 117,
     "fields": {
         "college": 1,
@@ -1276,7 +1276,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 118,
     "fields": {
         "college": 1,
@@ -1287,7 +1287,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 119,
     "fields": {
         "college": 1,
@@ -1298,7 +1298,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 120,
     "fields": {
         "college": 1,
@@ -1309,7 +1309,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 121,
     "fields": {
         "college": 1,
@@ -1320,7 +1320,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 122,
     "fields": {
         "college": 1,
@@ -1331,7 +1331,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 123,
     "fields": {
         "college": 1,
@@ -1342,7 +1342,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 124,
     "fields": {
         "college": 1,
@@ -1353,7 +1353,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 125,
     "fields": {
         "college": 1,
@@ -1364,7 +1364,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 126,
     "fields": {
         "college": 1,
@@ -1375,7 +1375,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 127,
     "fields": {
         "college": 1,
@@ -1386,7 +1386,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 128,
     "fields": {
         "college": 1,
@@ -1397,7 +1397,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 129,
     "fields": {
         "college": 1,
@@ -1408,7 +1408,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 130,
     "fields": {
         "college": 1,
@@ -1419,7 +1419,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 131,
     "fields": {
         "college": 1,
@@ -1430,7 +1430,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 132,
     "fields": {
         "college": 1,
@@ -1441,7 +1441,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 133,
     "fields": {
         "college": 1,
@@ -1452,7 +1452,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 134,
     "fields": {
         "college": 1,
@@ -1463,7 +1463,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 135,
     "fields": {
         "college": 1,
@@ -1474,7 +1474,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 136,
     "fields": {
         "college": 1,
@@ -1485,7 +1485,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 137,
     "fields": {
         "college": 1,
@@ -1496,7 +1496,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 138,
     "fields": {
         "college": 1,
@@ -1507,7 +1507,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 139,
     "fields": {
         "college": 1,
@@ -1518,7 +1518,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 140,
     "fields": {
         "college": 1,
@@ -1529,7 +1529,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 141,
     "fields": {
         "college": 1,
@@ -1540,7 +1540,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 142,
     "fields": {
         "college": 1,
@@ -1551,7 +1551,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 143,
     "fields": {
         "college": 1,
@@ -1562,7 +1562,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 144,
     "fields": {
         "college": 1,
@@ -1573,7 +1573,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 145,
     "fields": {
         "college": 1,
@@ -1584,7 +1584,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 146,
     "fields": {
         "college": 1,
@@ -1595,7 +1595,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 147,
     "fields": {
         "college": 1,
@@ -1606,7 +1606,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 148,
     "fields": {
         "college": 1,
@@ -1617,7 +1617,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 149,
     "fields": {
         "college": 1,
@@ -1628,7 +1628,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 150,
     "fields": {
         "college": 1,
@@ -1639,7 +1639,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 151,
     "fields": {
         "college": 1,
@@ -1650,7 +1650,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 152,
     "fields": {
         "college": 1,
@@ -1661,7 +1661,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 153,
     "fields": {
         "college": 1,
@@ -1672,7 +1672,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 154,
     "fields": {
         "college": 1,
@@ -1683,7 +1683,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 155,
     "fields": {
         "college": 1,
@@ -1694,7 +1694,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 156,
     "fields": {
         "college": 1,
@@ -1705,7 +1705,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 157,
     "fields": {
         "college": 1,
@@ -1716,7 +1716,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 158,
     "fields": {
         "college": 1,
@@ -1727,7 +1727,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 159,
     "fields": {
         "college": 1,
@@ -1738,7 +1738,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 160,
     "fields": {
         "college": 1,
@@ -1749,7 +1749,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 161,
     "fields": {
         "college": 1,
@@ -1760,7 +1760,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 162,
     "fields": {
         "college": 1,
@@ -1771,7 +1771,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 163,
     "fields": {
         "college": 1,
@@ -1782,7 +1782,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 164,
     "fields": {
         "college": 1,
@@ -1793,7 +1793,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 165,
     "fields": {
         "college": 1,
@@ -1804,7 +1804,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 166,
     "fields": {
         "college": 1,
@@ -1815,7 +1815,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 167,
     "fields": {
         "college": 1,
@@ -1826,7 +1826,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 168,
     "fields": {
         "college": 1,
@@ -1837,7 +1837,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 169,
     "fields": {
         "college": 1,
@@ -1848,7 +1848,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 170,
     "fields": {
         "college": 1,
@@ -1859,7 +1859,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 171,
     "fields": {
         "college": 1,
@@ -1870,7 +1870,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 172,
     "fields": {
         "college": 1,
@@ -1881,7 +1881,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 173,
     "fields": {
         "college": 1,
@@ -1892,7 +1892,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 174,
     "fields": {
         "college": 1,
@@ -1903,7 +1903,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 175,
     "fields": {
         "college": 1,
@@ -1914,7 +1914,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 176,
     "fields": {
         "college": 1,
@@ -1925,7 +1925,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 177,
     "fields": {
         "college": 1,
@@ -1936,7 +1936,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 178,
     "fields": {
         "college": 1,
@@ -1947,7 +1947,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 179,
     "fields": {
         "college": 1,
@@ -1958,7 +1958,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 180,
     "fields": {
         "college": 1,
@@ -1969,7 +1969,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 181,
     "fields": {
         "college": 1,
@@ -1980,7 +1980,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 182,
     "fields": {
         "college": 1,
@@ -1991,7 +1991,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 183,
     "fields": {
         "college": 1,
@@ -2002,7 +2002,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 184,
     "fields": {
         "college": 1,
@@ -2013,7 +2013,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 185,
     "fields": {
         "college": 1,
@@ -2024,7 +2024,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 186,
     "fields": {
         "college": 1,
@@ -2035,7 +2035,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 187,
     "fields": {
         "college": 1,
@@ -2046,7 +2046,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 188,
     "fields": {
         "college": 1,
@@ -2057,7 +2057,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 189,
     "fields": {
         "college": 1,
@@ -2068,7 +2068,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 190,
     "fields": {
         "college": 1,
@@ -2079,7 +2079,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 191,
     "fields": {
         "college": 1,
@@ -2090,7 +2090,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 192,
     "fields": {
         "college": 1,
@@ -2101,7 +2101,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 193,
     "fields": {
         "college": 1,
@@ -2112,7 +2112,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 194,
     "fields": {
         "college": 1,
@@ -2123,7 +2123,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 195,
     "fields": {
         "college": 1,
@@ -2134,7 +2134,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 196,
     "fields": {
         "college": 1,
@@ -2145,7 +2145,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 197,
     "fields": {
         "college": 1,
@@ -2156,7 +2156,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 198,
     "fields": {
         "college": 1,
@@ -2167,7 +2167,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 199,
     "fields": {
         "college": 1,
@@ -2178,7 +2178,7 @@
     }
 },
 {
-    "model": "colleges.collegecourse",
+    "model": "colleges.course",
     "pk": 200,
     "fields": {
         "college": 1,

@@ -5,21 +5,8 @@ from django.views.generic import TemplateView
 from colleges.views import home, FilterCourseView
 
 urlpatterns = [
-    path('', home, name='home'),
+    path('', FilterCourseView.as_view(), name='home'),
+    path('apply/', TemplateView.as_view(template_name='Apply.html'), name='apply'),
     path('admin/', admin.site.urls),
-    path('about/', TemplateView.as_view(template_name='About.html'), name='about'),
     path('contact/', TemplateView.as_view(template_name='Contact.html'), name='contact'),
-
-    # # third party
-    # path('accounts/', include('allauth.urls')),
-    # path('reviews/', include('reviews.urls')),
-    #
-    # # apps
-    # path('', home, name='home'),
-    # path('colleges/', include('colleges.urls'), name='colleges'),
-    # path('users/', include('users.urls'), name='users'),
-    #
-    # # debugging
-    # path('__debug__/', include('debug_toolbar.urls')),
-    # path("__reload__/", include("django_browser_reload.urls")),
 ]

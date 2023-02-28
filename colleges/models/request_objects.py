@@ -7,9 +7,7 @@ class RequestCourse(models.Model):
     class Meta:
         # can have same course at different levels
         constraints = [
-            models.UniqueConstraint(fields=['college', 'department', 'course_name', 'course_id'],
-                                    name='req_course_alt_key'),
-            models.UniqueConstraint(fields=['course_id'],
+            models.UniqueConstraint(fields=['college', 'course_id'],
                                     name='secondary_course_id_key_request_course')
         ]
 
@@ -19,7 +17,9 @@ class RequestCourse(models.Model):
     )
     department = models.ForeignKey(
         Department,
-        on_delete=models.PROTECT
+        on_delete=models.SET_NULL,
+        null=True,
+        blank=True
         # don't allow deletion of department if referenced
     )
     course_id = models.CharField(

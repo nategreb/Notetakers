@@ -1,7 +1,7 @@
 """
     get all classes for the college
 """
-from django.shortcuts import render
+from django.shortcuts import render, get_object_or_404
 
 from django_tables2 import SingleTableMixin
 from django_filters.views import FilterView
@@ -28,4 +28,6 @@ class FilterCourseView(SingleTableMixin, FilterView):
 
 def view_course(request, course_id, course_slug):
     # get notetakers in this speciifc class
-    return None
+    course = get_object_or_404(Course, pk=course_id)
+    notetakers = course.notetaker_set.all()
+    return render(request, 'courses/CourseProfile.html', {'course': course, 'notetakers': notetakers})

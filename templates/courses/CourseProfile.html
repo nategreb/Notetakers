@@ -1,0 +1,73 @@
+{% extends 'Base.html' %}
+{% load static %}
+{% block content %}
+    {% include 'AlertMessages.html' %}
+    <section class="bg-white dark:bg-gray-900">
+        <div class="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6">
+            <div class="max-w-screen-md mb-8 lg:mb-16">
+                <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">{{ course }}</h2>
+                <p class="my-4 text-lg text-gray-500">{{ course.department }}</p>
+            </div>
+             {% if notetakers %}
+    <div class="relative overflow-x-auto">
+                <table class="w-full text-sm text-left text-gray-500 dark:text-gray-400">
+                    <thead class="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
+                        <tr>
+                            <th scope="col" class="px-6 py-3">
+                                Notetaker Contact
+                            </th>
+                            <th scope="col" class="px-6 py-3">
+                                Notes Example
+                            </th>
+                            <th scope="col" class="px-6 py-3">
+                                Study Guide Example
+                            </th>
+                            <th scope="col" class="px-6 py-3">
+                                Cheat Sheet Example
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                    {% for notetaker in notetakers %}
+                        <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
+                            <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
+                              {{ notetaker.email }}
+                            </th>
+                            <td class="px-6 py-4">
+                                {% if notetaker.notes_example %}
+                                   <a class="font-medium text-blue-600 dark:text-blue-500 hover:underline" href={{ notetaker.notes_example }}> Click here </a>
+                                {% else %}
+                                    N/A
+                                {% endif %}
+                            </td>
+                            <td class="px-6 py-4">
+                                {% if notetaker.study_guide_example %}
+                                   <a class="font-medium text-blue-600 dark:text-blue-500 hover:underline" href={{ notetaker.study_guide_example }}> Click here </a>
+                                {% else %}
+                                    N/A
+                                {% endif %}
+                            </td>
+                            <td class="px-6 py-4">
+                                {% if notetaker.cheat_sheet_example %}
+                                   <a class="font-medium text-blue-600 dark:text-blue-500 hover:underline" href={{ notetaker.cheat_sheet_example }}> Click here </a>
+                                {% else %}
+                                    N/A
+                                {% endif %}
+                            </td>
+                        </tr>
+                    {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+    {% else %}
+        <a href="{% url 'apply' %}" class="inline-flex items-center justify-center p-5 text-base font-medium text-gray-500 rounded-lg bg-gray-50 hover:text-gray-900 hover:bg-gray-100 dark:text-gray-400 dark:bg-gray-800 dark:hover:bg-gray-700 dark:hover:text-white">
+            <span class="w-full">No notetakers found. Apply to be one</span>
+            <svg aria-hidden="true" class="w-6 h-6 ml-3" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
+        </a>
+    {% endif %}
+
+        </div>
+    </section>
+
+
+{% endblock %}

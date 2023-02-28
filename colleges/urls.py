@@ -1,7 +1,7 @@
 from django.urls import path, include
 from django.views.generic import TemplateView
 
-from .views import view_course
+from .views import view_course, request_course
 
 app_name = 'colleges'
 

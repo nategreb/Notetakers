@@ -21,7 +21,6 @@ django-filter==22.1
 django-generic-positions==0.2.3
 django-hvad==1.8.0
 django-libs==2.0.3
-django-rated-reviews==1.0.1
 django-tables2==2.5.2
 django-widget-tweaks==1.4.12
 django_debug_toolbar==3.8.1

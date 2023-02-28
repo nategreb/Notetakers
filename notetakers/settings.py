@@ -181,7 +181,7 @@ REVIEW_PERMISSION_FUNCTION = lambda u, item: u.college and (u.college == item or
 
 if not DEBUG:
     sentry_sdk.init(
-        dsn="https://2d136de23def48bbb8f4cc9aaf14b322@o4504679836614656.ingest.sentry.io/4504679844741120",
+        dsn="https://5837321a4e874c2b840ee2fe0b8819e9@o4504679836614656.ingest.sentry.io/4504760200921088",
         integrations=[
             DjangoIntegration(),
         ],

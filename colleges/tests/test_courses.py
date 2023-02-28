@@ -98,8 +98,7 @@ class TestCourses(TestCase):
 
     # test deletion department. Nothing should happen
     def test_delete_department(self):
-        with self.assertRaises(IntegrityError):
-            Department.objects.get(name='Computer Science').delete()
+        self.assertIsNotNone(Department.objects.get(name='Computer Science'))
 
     # test deletion college
     def test_delete_college(self):

@@ -14,7 +14,7 @@ class Course(models.Model):
     class Meta:
         # can have same course at different levels
         constraints = [
-            models.UniqueConstraint(fields=['college', 'department', 'course_name', 'course_id'],
+            models.UniqueConstraint(fields=['college', 'course_name', 'course_id'],
                                     name='college_course_alt_key'),
             models.UniqueConstraint(fields=['course_id'],
                                     name='secondary_course_id_key')
@@ -27,8 +27,9 @@ class Course(models.Model):
     )
     department = models.ForeignKey(
         Department,
-        on_delete=models.PROTECT
-        # don't allow deletion of department if referenced
+        on_delete=models.SET_NULL,
+        null=True,
+        blank=True
     )
     course_id = models.CharField(
         max_length=15,

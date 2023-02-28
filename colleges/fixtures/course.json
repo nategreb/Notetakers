@@ -1,2191 +1,4919 @@
 [
-{
+  {
     "model": "colleges.course",
     "pk": 1,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI119",
-        "course_name": "Introduction to Programming",
-        "slug": "introduction-to-programming"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI119",
+      "course_name": "Introduction to Programming",
+      "slug": "introduction-to-programming"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 2,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI121",
-        "course_name": "Introduction to Problem Solving with Computers",
-        "slug": "introduction-to-problem-solving-with-computers"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI121",
+      "course_name": "Introduction to Problem Solving with Computers",
+      "slug": "introduction-to-problem-solving-with-computers"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 3,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI145",
-        "course_name": "Representing, Storing, and Retrieving Information",
-        "slug": "representing-storing-and-retrieving-information"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI145",
+      "course_name": "Representing, Storing, and Retrieving Information",
+      "slug": "representing-storing-and-retrieving-information"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 4,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI186",
-        "course_name": "Using Data Structures",
-        "slug": "using-data-structures"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI186",
+      "course_name": "Using Data Structures",
+      "slug": "using-data-structures"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 5,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI187",
-        "course_name": "Programming with Data Structures",
-        "slug": "programming-with-data-structures"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI187",
+      "course_name": "Programming with Data Structures",
+      "slug": "programming-with-data-structures"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 6,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI198C",
-        "course_name": "Practicum - Introduction to the C Programming Language",
-        "slug": "practicum-introduction-to-the-c-programming-language"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI198C",
+      "course_name": "Practicum - Introduction to the C Programming Language",
+      "slug": "practicum-introduction-to-the-c-programming-language"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 7,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI220",
-        "course_name": "Programming Methodology",
-        "slug": "programming-methodology"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI220",
+      "course_name": "Programming Methodology",
+      "slug": "programming-methodology"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 8,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI230",
-        "course_name": "Computer Systems Principles",
-        "slug": "computer-systems-principles"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI230",
+      "course_name": "Computer Systems Principles",
+      "slug": "computer-systems-principles"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 9,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI240",
-        "course_name": "Reasoning Under Uncertainty",
-        "slug": "reasoning-under-uncertainty"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI240",
+      "course_name": "Reasoning Under Uncertainty",
+      "slug": "reasoning-under-uncertainty"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 10,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI250",
-        "course_name": "Introduction to Computation",
-        "slug": "introduction-to-computation"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI250",
+      "course_name": "Introduction to Computation",
+      "slug": "introduction-to-computation"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 11,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI311",
-        "course_name": "Introduction to Algorithms",
-        "slug": "introduction-to-algorithms"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI311",
+      "course_name": "Introduction to Algorithms",
+      "slug": "introduction-to-algorithms"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 12,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI320",
-        "course_name": "Introduction to Software Engineering",
-        "slug": "introduction-to-software-engineering"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI320",
+      "course_name": "Introduction to Software Engineering",
+      "slug": "introduction-to-software-engineering"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 13,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI325",
-        "course_name": "Introduction to Human Computer Interaction",
-        "slug": "introduction-to-human-computer-interaction"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI325",
+      "course_name": "Introduction to Human Computer Interaction",
+      "slug": "introduction-to-human-computer-interaction"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 14,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI326",
-        "course_name": "Web Programming",
-        "slug": "web-programming"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI326",
+      "course_name": "Web Programming",
+      "slug": "web-programming"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 15,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI328",
-        "course_name": "Mobile Health Sensing and Analytics",
-        "slug": "mobile-health-sensing-and-analytics"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI328",
+      "course_name": "Mobile Health Sensing and Analytics",
+      "slug": "mobile-health-sensing-and-analytics"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 16,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI333",
-        "course_name": "Internet of Things",
-        "slug": "internet-of-things"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI333",
+      "course_name": "Internet of Things",
+      "slug": "internet-of-things"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 17,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI335",
-        "course_name": "Inside the Box: How Computers Work",
-        "slug": "inside-the-box-how-computers-work"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI335",
+      "course_name": "Inside the Box: How Computers Work",
+      "slug": "inside-the-box-how-computers-work"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 18,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI345",
-        "course_name": "Practice and Applications of Data Management",
-        "slug": "practice-and-applications-of-data-management"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI345",
+      "course_name": "Practice and Applications of Data Management",
+      "slug": "practice-and-applications-of-data-management"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 19,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI348",
-        "course_name": "Principles of Data Science",
-        "slug": "principles-of-data-science"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI348",
+      "course_name": "Principles of Data Science",
+      "slug": "principles-of-data-science"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 20,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI360",
-        "course_name": "Introduction to Computer and Network Security",
-        "slug": "introduction-to-computer-and-network-security"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI360",
+      "course_name": "Introduction to Computer and Network Security",
+      "slug": "introduction-to-computer-and-network-security"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 21,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI365",
-        "course_name": "Digital Forensics",
-        "slug": "digital-forensics"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI365",
+      "course_name": "Digital Forensics",
+      "slug": "digital-forensics"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 22,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI370",
-        "course_name": "Introduction to Computer Vision",
-        "slug": "introduction-to-computer-vision"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI370",
+      "course_name": "Introduction to Computer Vision",
+      "slug": "introduction-to-computer-vision"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 23,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI373",
-        "course_name": "Introduction to Computer Graphics",
-        "slug": "introduction-to-computer-graphics"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI373",
+      "course_name": "Introduction to Computer Graphics",
+      "slug": "introduction-to-computer-graphics"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 24,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI377",
-        "course_name": "Operating Systems",
-        "slug": "operating-systems"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI377",
+      "course_name": "Operating Systems",
+      "slug": "operating-systems"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 25,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI383",
-        "course_name": "Artificial Intelligence",
-        "slug": "artificial-intelligence"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI383",
+      "course_name": "Artificial Intelligence",
+      "slug": "artificial-intelligence"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 26,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI389",
-        "course_name": "Introducation to Machine Learning",
-        "slug": "introducation-to-machine-learning"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI389",
+      "course_name": "Introducation to Machine Learning",
+      "slug": "introducation-to-machine-learning"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 27,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI391L",
-        "course_name": "Computer Crime Law and the Technologies of Investigation and Privacy",
-        "slug": "computer-crime-law-and-the-technologies-of-investigation-and-privacy"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI391L",
+      "course_name": "Computer Crime Law and the Technologies of Investigation and Privacy",
+      "slug": "computer-crime-law-and-the-technologies-of-investigation-and-privacy"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 28,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI403",
-        "course_name": "Introduction to Robotics: Perception, Mechanics, Dynamics, and Control",
-        "slug": "introduction-to-robotics-perception-mechanics-dynamics-and-control"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI403",
+      "course_name": "Introduction to Robotics: Perception, Mechanics, Dynamics, and Control",
+      "slug": "introduction-to-robotics-perception-mechanics-dynamics-and-control"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 30,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI420",
-        "course_name": "Software Entrepreneurship",
-        "slug": "software-entrepreneurship"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI420",
+      "course_name": "Software Entrepreneurship",
+      "slug": "software-entrepreneurship"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 31,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI429",
-        "course_name": "Software Engineering Project Management",
-        "slug": "software-engineering-project-management"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI429",
+      "course_name": "Software Engineering Project Management",
+      "slug": "software-engineering-project-management"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 32,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI445",
-        "course_name": "Information Systems",
-        "slug": "information-systems"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI445",
+      "course_name": "Information Systems",
+      "slug": "information-systems"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 33,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI446",
-        "course_name": "Search Engines",
-        "slug": "search-engines"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI446",
+      "course_name": "Search Engines",
+      "slug": "search-engines"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 34,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI453",
-        "course_name": "Computer Networks",
-        "slug": "computer-networks"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI453",
+      "course_name": "Computer Networks",
+      "slug": "computer-networks"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 35,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI461",
-        "course_name": "Secure Distributed Systems",
-        "slug": "secure-distributed-systems"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI461",
+      "course_name": "Secure Distributed Systems",
+      "slug": "secure-distributed-systems"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 36,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI466",
-        "course_name": "Applied Cryptography",
-        "slug": "applied-cryptography"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI466",
+      "course_name": "Applied Cryptography",
+      "slug": "applied-cryptography"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 37,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI474",
-        "course_name": "Image Synthesis",
-        "slug": "image-synthesis"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI474",
+      "course_name": "Image Synthesis",
+      "slug": "image-synthesis"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 38,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI490A",
-        "course_name": "Applications of Natural Language Processing",
-        "slug": "applications-of-natural-language-processing"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI490A",
+      "course_name": "Applications of Natural Language Processing",
+      "slug": "applications-of-natural-language-processing"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 39,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI490U",
-        "course_name": "Introduction to User Experience Research",
-        "slug": "introduction-to-user-experience-research"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI490U",
+      "course_name": "Introduction to User Experience Research",
+      "slug": "introduction-to-user-experience-research"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 40,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI491G",
-        "course_name": "Seminar - Computer Networking Lab",
-        "slug": "seminar-computer-networking-lab"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI491G",
+      "course_name": "Seminar - Computer Networking Lab",
+      "slug": "seminar-computer-networking-lab"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 41,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI497S",
-        "course_name": "Special Topics - Scalable Web Systems",
-        "slug": "special-topics-scalable-web-systems"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI497S",
+      "course_name": "Special Topics - Scalable Web Systems",
+      "slug": "special-topics-scalable-web-systems"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 42,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI501",
-        "course_name": "Formal Language Theory",
-        "slug": "formal-language-theory"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI501",
+      "course_name": "Formal Language Theory",
+      "slug": "formal-language-theory"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 43,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI503",
-        "course_name": "Embedded Computing Systems",
-        "slug": "embedded-computing-systems"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI503",
+      "course_name": "Embedded Computing Systems",
+      "slug": "embedded-computing-systems"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 44,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI508",
-        "course_name": "Ethical Considerations in Computing",
-        "slug": "ethical-considerations-in-computing"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI508",
+      "course_name": "Ethical Considerations in Computing",
+      "slug": "ethical-considerations-in-computing"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 45,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI513",
-        "course_name": "Logic in Computer Science",
-        "slug": "logic-in-computer-science"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI513",
+      "course_name": "Logic in Computer Science",
+      "slug": "logic-in-computer-science"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 46,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI514",
-        "course_name": "Algorithms for Data Science",
-        "slug": "algorithms-for-data-science"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI514",
+      "course_name": "Algorithms for Data Science",
+      "slug": "algorithms-for-data-science"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 47,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI520",
-        "course_name": "Theory and Practice of Software Engineering",
-        "slug": "theory-and-practice-of-software-engineering"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI520",
+      "course_name": "Theory and Practice of Software Engineering",
+      "slug": "theory-and-practice-of-software-engineering"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 48,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI524",
-        "course_name": "Health Informatics and Data Science",
-        "slug": "health-informatics-and-data-science"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI524",
+      "course_name": "Health Informatics and Data Science",
+      "slug": "health-informatics-and-data-science"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 49,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI528",
-        "course_name": "Mobile and Ubiquitous Computing",
-        "slug": "mobile-and-ubiquitous-computing"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI528",
+      "course_name": "Mobile and Ubiquitous Computing",
+      "slug": "mobile-and-ubiquitous-computing"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 50,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI532",
-        "course_name": "Systems for Data Science",
-        "slug": "systems-for-data-science"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI532",
+      "course_name": "Systems for Data Science",
+      "slug": "systems-for-data-science"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 51,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI535",
-        "course_name": "Computer Architecture",
-        "slug": "computer-architecture"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI535",
+      "course_name": "Computer Architecture",
+      "slug": "computer-architecture"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 52,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI546",
-        "course_name": "Applied Information Retrieval",
-        "slug": "applied-information-retrieval"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI546",
+      "course_name": "Applied Information Retrieval",
+      "slug": "applied-information-retrieval"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 53,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI550",
-        "course_name": "Introduction to Simulation",
-        "slug": "introduction-to-simulation"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI550",
+      "course_name": "Introduction to Simulation",
+      "slug": "introduction-to-simulation"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 54,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI560",
-        "course_name": "Introduction to Computer and Network Security",
-        "slug": "introduction-to-computer-and-network-security"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI560",
+      "course_name": "Introduction to Computer and Network Security",
+      "slug": "introduction-to-computer-and-network-security"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 55,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI563",
-        "course_name": "Internet Law and Policy",
-        "slug": "internet-law-and-policy"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI563",
+      "course_name": "Internet Law and Policy",
+      "slug": "internet-law-and-policy"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 56,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI564",
-        "course_name": "Cyber Effects: Reverse Engineering, Exploit Analysis, and Capability Development",
-        "slug": "cyber-effects-reverse-engineering-exploit-analysis-and-capability-development"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI564",
+      "course_name": "Cyber Effects: Reverse Engineering, Exploit Analysis, and Capability Development",
+      "slug": "cyber-effects-reverse-engineering-exploit-analysis-and-capability-development"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 57,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI565",
-        "course_name": "Advanced Digital Forensic Systems",
-        "slug": "advanced-digital-forensic-systems"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI565",
+      "course_name": "Advanced Digital Forensic Systems",
+      "slug": "advanced-digital-forensic-systems"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 58,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI571",
-        "course_name": "Data Visualization and Exploration",
-        "slug": "data-visualization-and-exploration"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI571",
+      "course_name": "Data Visualization and Exploration",
+      "slug": "data-visualization-and-exploration"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 59,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI574",
-        "course_name": "Intelligent Visual Computing",
-        "slug": "intelligent-visual-computing"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI574",
+      "course_name": "Intelligent Visual Computing",
+      "slug": "intelligent-visual-computing"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 60,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI575",
-        "course_name": "Combinatorics and Graph Theory",
-        "slug": "combinatorics-and-graph-theory"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI575",
+      "course_name": "Combinatorics and Graph Theory",
+      "slug": "combinatorics-and-graph-theory"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 61,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI576",
-        "course_name": "Game Programming",
-        "slug": "game-programming"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI576",
+      "course_name": "Game Programming",
+      "slug": "game-programming"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 62,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI578",
-        "course_name": "Distributed Computing and Systems",
-        "slug": "distributed-computing-and-systems"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI578",
+      "course_name": "Distributed Computing and Systems",
+      "slug": "distributed-computing-and-systems"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 63,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI589",
-        "course_name": "Machine Learning",
-        "slug": "machine-learning"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI589",
+      "course_name": "Machine Learning",
+      "slug": "machine-learning"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 64,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI590L",
-        "course_name": "Making Predications",
-        "slug": "making-predications"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI590L",
+      "course_name": "Making Predications",
+      "slug": "making-predications"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 65,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI590Q",
-        "course_name": "Quantum Information Systems",
-        "slug": "quantum-information-systems"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI590Q",
+      "course_name": "Quantum Information Systems",
+      "slug": "quantum-information-systems"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 66,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI590T",
-        "course_name": "Algorithmic Fairness and Strategic Behavior",
-        "slug": "algorithmic-fairness-and-strategic-behavior"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI590T",
+      "course_name": "Algorithmic Fairness and Strategic Behavior",
+      "slug": "algorithmic-fairness-and-strategic-behavior"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 67,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI591CF",
-        "course_name": "Seminar - Cybersecurity Lecture Series",
-        "slug": "seminar-cybersecurity-lecture-series"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI591CF",
+      "course_name": "Seminar - Cybersecurity Lecture Series",
+      "slug": "seminar-cybersecurity-lecture-series"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 68,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI591NR",
-        "course_name": "Seminar - Neural Networks: Neuroscience and Engineering",
-        "slug": "seminar-neural-networks-neuroscience-and-engineering"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI591NR",
+      "course_name": "Seminar - Neural Networks: Neuroscience and Engineering",
+      "slug": "seminar-neural-networks-neuroscience-and-engineering"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 69,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI601",
-        "course_name": "Computation Theory",
-        "slug": "computation-theory"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI601",
+      "course_name": "Computation Theory",
+      "slug": "computation-theory"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 70,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI603",
-        "course_name": "Robotics",
-        "slug": "robotics"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI603",
+      "course_name": "Robotics",
+      "slug": "robotics"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 71,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI610",
-        "course_name": "Compiler Techniques",
-        "slug": "compiler-techniques"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI610",
+      "course_name": "Compiler Techniques",
+      "slug": "compiler-techniques"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 72,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI611",
-        "course_name": "Advanced Algorithms",
-        "slug": "advanced-algorithms"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI611",
+      "course_name": "Advanced Algorithms",
+      "slug": "advanced-algorithms"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 73,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI613",
-        "course_name": "Advanced Logic in Computer Science",
-        "slug": "advanced-logic-in-computer-science"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI613",
+      "course_name": "Advanced Logic in Computer Science",
+      "slug": "advanced-logic-in-computer-science"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 74,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI614",
-        "course_name": "Randomized Algorithms with Applications to Data Science",
-        "slug": "randomized-algorithms-with-applications-to-data-science"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI614",
+      "course_name": "Randomized Algorithms with Applications to Data Science",
+      "slug": "randomized-algorithms-with-applications-to-data-science"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 75,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI621",
-        "course_name": "Advanced Software Engineering: Analysis and Evaluation",
-        "slug": "advanced-software-engineering-analysis-and-evaluation"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI621",
+      "course_name": "Advanced Software Engineering: Analysis and Evaluation",
+      "slug": "advanced-software-engineering-analysis-and-evaluation"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 76,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI625",
-        "course_name": "Advanced Methods in Human Computer Interaction",
-        "slug": "advanced-methods-in-human-computer-interaction"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI625",
+      "course_name": "Advanced Methods in Human Computer Interaction",
+      "slug": "advanced-methods-in-human-computer-interaction"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 77,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI630",
-        "course_name": "Systems",
-        "slug": "systems"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI630",
+      "course_name": "Systems",
+      "slug": "systems"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 78,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI631",
-        "course_name": "Programming Languages",
-        "slug": "programming-languages"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI631",
+      "course_name": "Programming Languages",
+      "slug": "programming-languages"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 79,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI635",
-        "course_name": "Modern Computer Architecture",
-        "slug": "modern-computer-architecture"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI635",
+      "course_name": "Modern Computer Architecture",
+      "slug": "modern-computer-architecture"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 80,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI645",
-        "course_name": "Database Design and Implementation",
-        "slug": "database-design-and-implementation"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI645",
+      "course_name": "Database Design and Implementation",
+      "slug": "database-design-and-implementation"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 81,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI646",
-        "course_name": "Information Retrieval",
-        "slug": "information-retrieval"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI646",
+      "course_name": "Information Retrieval",
+      "slug": "information-retrieval"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 82,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI648",
-        "course_name": "Quantum Information Systems",
-        "slug": "quantum-information-systems"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI648",
+      "course_name": "Quantum Information Systems",
+      "slug": "quantum-information-systems"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 83,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI650",
-        "course_name": "Applied Information Theory",
-        "slug": "applied-information-theory"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI650",
+      "course_name": "Applied Information Theory",
+      "slug": "applied-information-theory"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 84,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI651",
-        "course_name": "Optimization in Computer Science",
-        "slug": "optimization-in-computer-science"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI651",
+      "course_name": "Optimization in Computer Science",
+      "slug": "optimization-in-computer-science"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 85,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI653",
-        "course_name": "Computer Networking",
-        "slug": "computer-networking"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI653",
+      "course_name": "Computer Networking",
+      "slug": "computer-networking"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 86,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI654",
-        "course_name": "Advanced Wireless Networking and Sensing in IoT",
-        "slug": "advanced-wireless-networking-and-sensing-in-iot"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI654",
+      "course_name": "Advanced Wireless Networking and Sensing in IoT",
+      "slug": "advanced-wireless-networking-and-sensing-in-iot"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 87,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI655",
-        "course_name": "Performance Evaluation",
-        "slug": "performance-evaluation"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI655",
+      "course_name": "Performance Evaluation",
+      "slug": "performance-evaluation"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 88,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI660",
-        "course_name": "Advanced Information Assurance",
-        "slug": "advanced-information-assurance"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI660",
+      "course_name": "Advanced Information Assurance",
+      "slug": "advanced-information-assurance"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 89,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI661",
-        "course_name": "Secure Distributed Systems",
-        "slug": "secure-distributed-systems"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI661",
+      "course_name": "Secure Distributed Systems",
+      "slug": "secure-distributed-systems"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 90,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI670",
-        "course_name": "Computer Vision",
-        "slug": "computer-vision"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI670",
+      "course_name": "Computer Vision",
+      "slug": "computer-vision"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 91,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI674",
-        "course_name": "Intelligent Visual Computing",
-        "slug": "intelligent-visual-computing"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI674",
+      "course_name": "Intelligent Visual Computing",
+      "slug": "intelligent-visual-computing"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 92,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI677",
-        "course_name": "Distributed and Operating Systems",
-        "slug": "distributed-and-operating-systems"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI677",
+      "course_name": "Distributed and Operating Systems",
+      "slug": "distributed-and-operating-systems"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 93,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI682",
-        "course_name": "Neural Networks: A Modern Introduction",
-        "slug": "neural-networks-a-modern-introduction"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI682",
+      "course_name": "Neural Networks: A Modern Introduction",
+      "slug": "neural-networks-a-modern-introduction"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 94,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI683",
-        "course_name": "Artificial Intelligence",
-        "slug": "artificial-intelligence"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI683",
+      "course_name": "Artificial Intelligence",
+      "slug": "artificial-intelligence"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 95,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI685",
-        "course_name": "Advanced Natural Language Processing",
-        "slug": "advanced-natural-language-processing"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI685",
+      "course_name": "Advanced Natural Language Processing",
+      "slug": "advanced-natural-language-processing"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 96,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI687",
-        "course_name": "Reinforcement Learning",
-        "slug": "reinforcement-learning"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI687",
+      "course_name": "Reinforcement Learning",
+      "slug": "reinforcement-learning"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 97,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI688",
-        "course_name": "Probabilistic Graphical Models",
-        "slug": "probabilistic-graphical-models"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI688",
+      "course_name": "Probabilistic Graphical Models",
+      "slug": "probabilistic-graphical-models"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 98,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI689",
-        "course_name": "Machine Learning",
-        "slug": "machine-learning"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI689",
+      "course_name": "Machine Learning",
+      "slug": "machine-learning"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 99,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI690AA",
-        "course_name": "Approximation Algorithms and Combinatorial Optimization",
-        "slug": "approximation-algorithms-and-combinatorial-optimization"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI690AA",
+      "course_name": "Approximation Algorithms and Combinatorial Optimization",
+      "slug": "approximation-algorithms-and-combinatorial-optimization"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 100,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI690C",
-        "course_name": "Foundations of Applied Cryptography",
-        "slug": "foundations-of-applied-cryptography"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI690C",
+      "course_name": "Foundations of Applied Cryptography",
+      "slug": "foundations-of-applied-cryptography"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 101,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI691DD",
-        "course_name": "Seminar - Research Methods in Empirical Computer Science",
-        "slug": "seminar-research-methods-in-empirical-computer-science"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI691DD",
+      "course_name": "Seminar - Research Methods in Empirical Computer Science",
+      "slug": "seminar-research-methods-in-empirical-computer-science"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 102,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI691NR",
-        "course_name": "Seminar - Neural Networks: Neuroscience and Engineering",
-        "slug": "seminar-neural-networks-neuroscience-and-engineering"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI691NR",
+      "course_name": "Seminar - Neural Networks: Neuroscience and Engineering",
+      "slug": "seminar-neural-networks-neuroscience-and-engineering"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 103,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI691O",
-        "course_name": "Seminar - Tools for Explanatory and Tutoring Systems",
-        "slug": "seminar-tools-for-explanatory-and-tutoring-systems"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI691O",
+      "course_name": "Seminar - Tools for Explanatory and Tutoring Systems",
+      "slug": "seminar-tools-for-explanatory-and-tutoring-systems"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 104,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI692J",
-        "course_name": "Seminar - Quantum Algorithms",
-        "slug": "seminar-quantum-algorithms"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI692J",
+      "course_name": "Seminar - Quantum Algorithms",
+      "slug": "seminar-quantum-algorithms"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 105,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI698W",
-        "course_name": "Practicum - CS Research Writing Practicum",
-        "slug": "practicum-cs-research-writing-practicum"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI698W",
+      "course_name": "Practicum - CS Research Writing Practicum",
+      "slug": "practicum-cs-research-writing-practicum"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 106,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI879",
-        "course_name": "Teaching Assistants as Tomorrow's Faculty",
-        "slug": "teaching-assistants-as-tomorrow-s-faculty"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI879",
+      "course_name": "Teaching Assistants as Tomorrow's Faculty",
+      "slug": "teaching-assistants-as-tomorrow-s-faculty"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 107,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "COMPSCI891M",
-        "course_name": "Seminar - Theory of Computation",
-        "slug": "seminar-theory-of-computation"
+      "college": 1,
+      "department": 24,
+      "course_id": "COMPSCI891M",
+      "course_name": "Seminar - Theory of Computation",
+      "slug": "seminar-theory-of-computation"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 108,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "CICS108",
-        "course_name": "Foundations of Data Science",
-        "slug": "foundations-of-data-science"
+      "college": 1,
+      "department": 24,
+      "course_id": "CICS108",
+      "course_name": "Foundations of Data Science",
+      "slug": "foundations-of-data-science"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 109,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "CICS109",
-        "course_name": "Introduction to Data Analysis in R",
-        "slug": "introduction-to-data-analysis-in-r"
+      "college": 1,
+      "department": 24,
+      "course_id": "CICS109",
+      "course_name": "Introduction to Data Analysis in R",
+      "slug": "introduction-to-data-analysis-in-r"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 110,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "CICS110",
-        "course_name": "Foundations of Programming",
-        "slug": "foundations-of-programming"
+      "college": 1,
+      "department": 24,
+      "course_id": "CICS110",
+      "course_name": "Foundations of Programming",
+      "slug": "foundations-of-programming"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 111,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "CICS160",
-        "course_name": "Object-Oriented Programming",
-        "slug": "object-oriented-programming"
+      "college": 1,
+      "department": 24,
+      "course_id": "CICS160",
+      "course_name": "Object-Oriented Programming",
+      "slug": "object-oriented-programming"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 112,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "CICS191FY1",
-        "course_name": "CICS First Year Seminar",
-        "slug": "cics-first-year-seminar"
+      "college": 1,
+      "department": 24,
+      "course_id": "CICS191FY1",
+      "course_name": "CICS First Year Seminar",
+      "slug": "cics-first-year-seminar"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 113,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "CICS210",
-        "course_name": "Data Structures",
-        "slug": "data-structures"
+      "college": 1,
+      "department": 24,
+      "course_id": "CICS210",
+      "course_name": "Data Structures",
+      "slug": "data-structures"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 114,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "CICS256",
-        "course_name": "Make: A Hands-on Introduction to Physical Computing",
-        "slug": "make-a-hands-on-introduction-to-physical-computing"
+      "college": 1,
+      "department": 24,
+      "course_id": "CICS256",
+      "course_name": "Make: A Hands-on Introduction to Physical Computing",
+      "slug": "make-a-hands-on-introduction-to-physical-computing"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 115,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "CICS290A",
-        "course_name": "Introduction to Research in the Discipline",
-        "slug": "introduction-to-research-in-the-discipline"
+      "college": 1,
+      "department": 24,
+      "course_id": "CICS290A",
+      "course_name": "Introduction to Research in the Discipline",
+      "slug": "introduction-to-research-in-the-discipline"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 116,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "CICS290P",
-        "course_name": "Introduction to Public Interest Technology",
-        "slug": "introduction-to-public-interest-technology"
+      "college": 1,
+      "department": 24,
+      "course_id": "CICS290P",
+      "course_name": "Introduction to Public Interest Technology",
+      "slug": "introduction-to-public-interest-technology"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 117,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "CICS297DP",
-        "course_name": "Special Topics - The Digital Public Sphere",
-        "slug": "special-topics-the-digital-public-sphere"
+      "college": 1,
+      "department": 24,
+      "course_id": "CICS297DP",
+      "course_name": "Special Topics - The Digital Public Sphere",
+      "slug": "special-topics-the-digital-public-sphere"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 118,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "CICS305",
-        "course_name": "Social Issues in Computing",
-        "slug": "social-issues-in-computing"
+      "college": 1,
+      "department": 24,
+      "course_id": "CICS305",
+      "course_name": "Social Issues in Computing",
+      "slug": "social-issues-in-computing"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 119,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "CICS396A",
-        "course_name": "Independent Study - Directed Research Group",
-        "slug": "independent-study-directed-research-group"
+      "college": 1,
+      "department": 24,
+      "course_id": "CICS396A",
+      "course_name": "Independent Study - Directed Research Group",
+      "slug": "independent-study-directed-research-group"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 120,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "CICS490E",
-        "course_name": "EMBER: Introduction to Research Methods in Computing",
-        "slug": "ember-introduction-to-research-methods-in-computing"
+      "college": 1,
+      "department": 24,
+      "course_id": "CICS490E",
+      "course_name": "EMBER: Introduction to Research Methods in Computing",
+      "slug": "ember-introduction-to-research-methods-in-computing"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 121,
     "fields": {
-        "college": 1,
-        "department": 24,
-        "course_id": "CICS580",
-        "course_name": "Introduction to Numerical Computing with Python",
-        "slug": "introduction-to-numerical-computing-with-python"
+      "college": 1,
+      "department": 24,
+      "course_id": "CICS580",
+      "course_name": "Introduction to Numerical Computing with Python",
+      "slug": "introduction-to-numerical-computing-with-python"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 122,
     "fields": {
-        "college": 1,
-        "department": 44,
-        "course_id": "INFO101",
-        "course_name": "Introduction to Informatics",
-        "slug": "introduction-to-informatics"
+      "college": 1,
+      "department": 44,
+      "course_id": "INFO101",
+      "course_name": "Introduction to Informatics",
+      "slug": "introduction-to-informatics"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 123,
     "fields": {
-        "college": 1,
-        "department": 44,
-        "course_id": "INFO150",
-        "course_name": "A Mathematical Foundation for Informatics",
-        "slug": "a-mathematical-foundation-for-informatics"
+      "college": 1,
+      "department": 44,
+      "course_id": "INFO150",
+      "course_name": "A Mathematical Foundation for Informatics",
+      "slug": "a-mathematical-foundation-for-informatics"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 124,
     "fields": {
-        "college": 1,
-        "department": 44,
-        "course_id": "INFO203",
-        "course_name": "A Networked World",
-        "slug": "a-networked-world"
+      "college": 1,
+      "department": 44,
+      "course_id": "INFO203",
+      "course_name": "A Networked World",
+      "slug": "a-networked-world"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 125,
     "fields": {
-        "college": 1,
-        "department": 44,
-        "course_id": "INFO248",
-        "course_name": "Introduction to Data Science",
-        "slug": "introduction-to-data-science"
+      "college": 1,
+      "department": 44,
+      "course_id": "INFO248",
+      "course_name": "Introduction to Data Science",
+      "slug": "introduction-to-data-science"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 126,
     "fields": {
-        "college": 1,
-        "department": 44,
-        "course_id": "INFO324",
-        "course_name": "Introduction to Clinical Health Informatics",
-        "slug": "introduction-to-clinical-health-informatics"
+      "college": 1,
+      "department": 44,
+      "course_id": "INFO324",
+      "course_name": "Introduction to Clinical Health Informatics",
+      "slug": "introduction-to-clinical-health-informatics"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 127,
     "fields": {
-        "college": 1,
-        "department": 44,
-        "course_id": "INFO348",
-        "course_name": "Data Analytics with Python",
-        "slug": "data-analytics-with-python"
+      "college": 1,
+      "department": 44,
+      "course_id": "INFO348",
+      "course_name": "Data Analytics with Python",
+      "slug": "data-analytics-with-python"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 128,
     "fields": {
-        "college": 1,
-        "department": 44,
-        "course_id": "INFO490C",
-        "course_name": "Introduction to Social and Cultural Analytics",
-        "slug": "introduction-to-social-and-cultural-analytics"
+      "college": 1,
+      "department": 44,
+      "course_id": "INFO490C",
+      "course_name": "Introduction to Social and Cultural Analytics",
+      "slug": "introduction-to-social-and-cultural-analytics"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 129,
     "fields": {
-        "college": 1,
-        "department": 44,
-        "course_id": "INFO490PI",
-        "course_name": "Personal Health Informatics",
-        "slug": "personal-health-informatics"
+      "college": 1,
+      "department": 44,
+      "course_id": "INFO490PI",
+      "course_name": "Personal Health Informatics",
+      "slug": "personal-health-informatics"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 130,
     "fields": {
-        "college": 1,
-        "department": 44,
-        "course_id": "INFO690C",
-        "course_name": "Introducation to Social and Cultural Anayltics",
-        "slug": "introducation-to-social-and-cultural-anayltics"
+      "college": 1,
+      "department": 44,
+      "course_id": "INFO690C",
+      "course_name": "Introducation to Social and Cultural Anayltics",
+      "slug": "introducation-to-social-and-cultural-anayltics"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 131,
     "fields": {
-        "college": 1,
-        "department": 32,
-        "course_id": "FINANCE301",
-        "course_name": "Corporation Finance",
-        "slug": "corporation-finance"
+      "college": 1,
+      "department": 32,
+      "course_id": "FINANCE301",
+      "course_name": "Corporation Finance",
+      "slug": "corporation-finance"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 132,
     "fields": {
-        "college": 1,
-        "department": 32,
-        "course_id": "FINANCE304",
-        "course_name": "Financial Modeling",
-        "slug": "financial-modeling"
+      "college": 1,
+      "department": 32,
+      "course_id": "FINANCE304",
+      "course_name": "Financial Modeling",
+      "slug": "financial-modeling"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 133,
     "fields": {
-        "college": 1,
-        "department": 32,
-        "course_id": "FINANCE305",
-        "course_name": "Investments",
-        "slug": "investments"
+      "college": 1,
+      "department": 32,
+      "course_id": "FINANCE305",
+      "course_name": "Investments",
+      "slug": "investments"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 134,
     "fields": {
-        "college": 1,
-        "department": 32,
-        "course_id": "FINANCE402",
-        "course_name": "Advanced Corporate Finance",
-        "slug": "advanced-corporate-finance"
+      "college": 1,
+      "department": 32,
+      "course_id": "FINANCE402",
+      "course_name": "Advanced Corporate Finance",
+      "slug": "advanced-corporate-finance"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 135,
     "fields": {
-        "college": 1,
-        "department": 32,
-        "course_id": "FINANCE403",
-        "course_name": "Capital Markets & Institutions",
-        "slug": "capital-markets-institutions"
+      "college": 1,
+      "department": 32,
+      "course_id": "FINANCE403",
+      "course_name": "Capital Markets & Institutions",
+      "slug": "capital-markets-institutions"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 136,
     "fields": {
-        "college": 1,
-        "department": 32,
-        "course_id": "FINANCE497SA",
-        "course_name": "Securities Analysis",
-        "slug": "securities-analysis"
+      "college": 1,
+      "department": 32,
+      "course_id": "FINANCE497SA",
+      "course_name": "Securities Analysis",
+      "slug": "securities-analysis"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 137,
     "fields": {
-        "college": 1,
-        "department": 32,
-        "course_id": "FINANCE497U",
-        "course_name": "Cryptocurrencies and Digital Assets",
-        "slug": "cryptocurrencies-and-digital-assets"
+      "college": 1,
+      "department": 32,
+      "course_id": "FINANCE497U",
+      "course_name": "Cryptocurrencies and Digital Assets",
+      "slug": "cryptocurrencies-and-digital-assets"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 138,
     "fields": {
-        "college": 1,
-        "department": 26,
-        "course_id": "ECON103",
-        "course_name": "Introduction to Microeconomics",
-        "slug": "introduction-to-microeconomics"
+      "college": 1,
+      "department": 26,
+      "course_id": "ECON103",
+      "course_name": "Introduction to Microeconomics",
+      "slug": "introduction-to-microeconomics"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 139,
     "fields": {
-        "college": 1,
-        "department": 26,
-        "course_id": "ECON104",
-        "course_name": "Introduction to Macroeconomics",
-        "slug": "introduction-to-macroeconomics"
+      "college": 1,
+      "department": 26,
+      "course_id": "ECON104",
+      "course_name": "Introduction to Macroeconomics",
+      "slug": "introduction-to-macroeconomics"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 140,
     "fields": {
-        "college": 1,
-        "department": 26,
-        "course_id": "ECON105",
-        "course_name": "Introduction to Political Economy",
-        "slug": "introduction-to-political-economy"
+      "college": 1,
+      "department": 26,
+      "course_id": "ECON105",
+      "course_name": "Introduction to Political Economy",
+      "slug": "introduction-to-political-economy"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 141,
     "fields": {
-        "college": 1,
-        "department": 26,
-        "course_id": "ECON121",
-        "course_name": "International Economy",
-        "slug": "international-economy"
+      "college": 1,
+      "department": 26,
+      "course_id": "ECON121",
+      "course_name": "International Economy",
+      "slug": "international-economy"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 142,
     "fields": {
-        "college": 1,
-        "department": 26,
-        "course_id": "ECON144",
-        "course_name": "Political Economy of Racism",
-        "slug": "political-economy-of-racism"
+      "college": 1,
+      "department": 26,
+      "course_id": "ECON144",
+      "course_name": "Political Economy of Racism",
+      "slug": "political-economy-of-racism"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 143,
     "fields": {
-        "college": 1,
-        "department": 26,
-        "course_id": "ECON197A",
-        "course_name": "Introduction to Quantitative Reasoning",
-        "slug": "introduction-to-quantitative-reasoning"
+      "college": 1,
+      "department": 26,
+      "course_id": "ECON197A",
+      "course_name": "Introduction to Quantitative Reasoning",
+      "slug": "introduction-to-quantitative-reasoning"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 144,
     "fields": {
-        "college": 1,
-        "department": 26,
-        "course_id": "ECON203",
-        "course_name": "Intermediate Microeconomic Theory",
-        "slug": "intermediate-microeconomic-theory"
+      "college": 1,
+      "department": 26,
+      "course_id": "ECON203",
+      "course_name": "Intermediate Microeconomic Theory",
+      "slug": "intermediate-microeconomic-theory"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 145,
     "fields": {
-        "college": 1,
-        "department": 26,
-        "course_id": "ECON204",
-        "course_name": "Intermediate Macroeconomic Theory",
-        "slug": "intermediate-macroeconomic-theory"
+      "college": 1,
+      "department": 26,
+      "course_id": "ECON204",
+      "course_name": "Intermediate Macroeconomic Theory",
+      "slug": "intermediate-macroeconomic-theory"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 146,
     "fields": {
-        "college": 1,
-        "department": 26,
-        "course_id": "ECON205",
-        "course_name": "Intermediate Political Economy",
-        "slug": "intermediate-political-economy"
+      "college": 1,
+      "department": 26,
+      "course_id": "ECON205",
+      "course_name": "Intermediate Political Economy",
+      "slug": "intermediate-political-economy"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 147,
     "fields": {
-        "college": 1,
-        "department": 26,
-        "course_id": "ECON305",
-        "course_name": "Marxian Economics",
-        "slug": "marxian-economics"
+      "college": 1,
+      "department": 26,
+      "course_id": "ECON305",
+      "course_name": "Marxian Economics",
+      "slug": "marxian-economics"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 148,
     "fields": {
-        "college": 1,
-        "department": 26,
-        "course_id": "ECON306",
-        "course_name": "History of Economic Thought",
-        "slug": "history-of-economic-thought"
+      "college": 1,
+      "department": 26,
+      "course_id": "ECON306",
+      "course_name": "History of Economic Thought",
+      "slug": "history-of-economic-thought"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 149,
     "fields": {
-        "college": 1,
-        "department": 26,
-        "course_id": "ECON308",
-        "course_name": "Political Economy of the Environment",
-        "slug": "political-economy-of-the-environment"
+      "college": 1,
+      "department": 26,
+      "course_id": "ECON308",
+      "course_name": "Political Economy of the Environment",
+      "slug": "political-economy-of-the-environment"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 150,
     "fields": {
-        "college": 1,
-        "department": 26,
-        "course_id": "ECON309",
-        "course_name": "Game Theory",
-        "slug": "game-theory"
+      "college": 1,
+      "department": 26,
+      "course_id": "ECON309",
+      "course_name": "Game Theory",
+      "slug": "game-theory"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 151,
     "fields": {
-        "college": 1,
-        "department": 26,
-        "course_id": "ECON310",
-        "course_name": "Environmental and Resource Economics",
-        "slug": "environmental-and-resource-economics"
+      "college": 1,
+      "department": 26,
+      "course_id": "ECON310",
+      "course_name": "Environmental and Resource Economics",
+      "slug": "environmental-and-resource-economics"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 152,
     "fields": {
-        "college": 1,
-        "department": 26,
-        "course_id": "ECON313",
-        "course_name": "Public Finance",
-        "slug": "public-finance"
+      "college": 1,
+      "department": 26,
+      "course_id": "ECON313",
+      "course_name": "Public Finance",
+      "slug": "public-finance"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 153,
     "fields": {
-        "college": 1,
-        "department": 26,
-        "course_id": "ECON314",
-        "course_name": "State & Local Public Finance",
-        "slug": "state-local-public-finance"
+      "college": 1,
+      "department": 26,
+      "course_id": "ECON314",
+      "course_name": "State & Local Public Finance",
+      "slug": "state-local-public-finance"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 154,
     "fields": {
-        "college": 1,
-        "department": 56,
-        "course_id": "MATH545",
-        "course_name": "Linear Algebra for Applied Mathematics",
-        "slug": "linear-algebra-for-applied-mathematics"
+      "college": 1,
+      "department": 56,
+      "course_id": "MATH545",
+      "course_name": "Linear Algebra for Applied Mathematics",
+      "slug": "linear-algebra-for-applied-mathematics"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 155,
     "fields": {
-        "college": 1,
-        "department": 80,
-        "course_id": "SPORTMGT300",
-        "course_name": "Sport Leadership",
-        "slug": "sport-leadership"
+      "college": 1,
+      "department": 80,
+      "course_id": "SPORTMGT300",
+      "course_name": "Sport Leadership",
+      "slug": "sport-leadership"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 156,
     "fields": {
-        "college": 1,
-        "department": 80,
-        "course_id": "SPORTMGT321",
-        "course_name": "Sport Marketing",
-        "slug": "sport-marketing"
+      "college": 1,
+      "department": 80,
+      "course_id": "SPORTMGT321",
+      "course_name": "Sport Marketing",
+      "slug": "sport-marketing"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 157,
     "fields": {
-        "college": 1,
-        "department": 80,
-        "course_id": "SPORTMGT335",
-        "course_name": "Sport Law",
-        "slug": "sport-law"
+      "college": 1,
+      "department": 80,
+      "course_id": "SPORTMGT335",
+      "course_name": "Sport Law",
+      "slug": "sport-law"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 158,
     "fields": {
-        "college": 1,
-        "department": 80,
-        "course_id": "SPORTMGT375",
-        "course_name": "Pub Assemb Facil Mgt",
-        "slug": "pub-assemb-facil-mgt"
+      "college": 1,
+      "department": 80,
+      "course_id": "SPORTMGT375",
+      "course_name": "Pub Assemb Facil Mgt",
+      "slug": "pub-assemb-facil-mgt"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 159,
     "fields": {
-        "college": 1,
-        "department": 80,
-        "course_id": "SPORTMGT462",
-        "course_name": "Advanced Sport Analytics",
-        "slug": "advanced-sport-analytics"
+      "college": 1,
+      "department": 80,
+      "course_id": "SPORTMGT462",
+      "course_name": "Advanced Sport Analytics",
+      "slug": "advanced-sport-analytics"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 160,
     "fields": {
-        "college": 1,
-        "department": 80,
-        "course_id": "SPORTMGT494PI",
-        "course_name": "Sports Policy",
-        "slug": "sports-policy"
+      "college": 1,
+      "department": 80,
+      "course_id": "SPORTMGT494PI",
+      "course_name": "Sports Policy",
+      "slug": "sports-policy"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 161,
     "fields": {
-        "college": 1,
-        "department": 80,
-        "course_id": "SPORTMGT597S",
-        "course_name": "Applied Topics in Sport Business",
-        "slug": "applied-topics-in-sport-business"
+      "college": 1,
+      "department": 80,
+      "course_id": "SPORTMGT597S",
+      "course_name": "Applied Topics in Sport Business",
+      "slug": "applied-topics-in-sport-business"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 162,
     "fields": {
-        "college": 1,
-        "department": 80,
-        "course_id": "SPORTMGT688",
-        "course_name": "Sport Labor Relations",
-        "slug": "sport-labor-relations"
+      "college": 1,
+      "department": 80,
+      "course_id": "SPORTMGT688",
+      "course_name": "Sport Labor Relations",
+      "slug": "sport-labor-relations"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 163,
     "fields": {
-        "college": 1,
-        "department": 80,
-        "course_id": "SPORTMGT692A",
-        "course_name": "Economics of Sports",
-        "slug": "economics-of-sports"
+      "college": 1,
+      "department": 80,
+      "course_id": "SPORTMGT692A",
+      "course_name": "Economics of Sports",
+      "slug": "economics-of-sports"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 164,
     "fields": {
-        "college": 1,
-        "department": 64,
-        "course_id": "OIM210",
-        "course_name": "Introduction to Business Information Systems",
-        "slug": "introduction-to-business-information-systems"
+      "college": 1,
+      "department": 64,
+      "course_id": "OIM210",
+      "course_name": "Introduction to Business Information Systems",
+      "slug": "introduction-to-business-information-systems"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 165,
     "fields": {
-        "college": 1,
-        "department": 64,
-        "course_id": "OIM240",
-        "course_name": "Business Data Analysis",
-        "slug": "business-data-analysis"
+      "college": 1,
+      "department": 64,
+      "course_id": "OIM240",
+      "course_name": "Business Data Analysis",
+      "slug": "business-data-analysis"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 166,
     "fields": {
-        "college": 1,
-        "department": 64,
-        "course_id": "OIM301",
-        "course_name": "Introduction to Operations Management",
-        "slug": "introduction-to-operations-management"
+      "college": 1,
+      "department": 64,
+      "course_id": "OIM301",
+      "course_name": "Introduction to Operations Management",
+      "slug": "introduction-to-operations-management"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 167,
     "fields": {
-        "college": 1,
-        "department": 64,
-        "course_id": "OIM320",
-        "course_name": "Quality Management",
-        "slug": "quality-management"
+      "college": 1,
+      "department": 64,
+      "course_id": "OIM320",
+      "course_name": "Quality Management",
+      "slug": "quality-management"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 168,
     "fields": {
-        "college": 1,
-        "department": 64,
-        "course_id": "OIM325",
-        "course_name": "Service Industry Operations",
-        "slug": "service-industry-operations"
+      "college": 1,
+      "department": 64,
+      "course_id": "OIM325",
+      "course_name": "Service Industry Operations",
+      "slug": "service-industry-operations"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 169,
     "fields": {
-        "college": 1,
-        "department": 64,
-        "course_id": "OIM350",
-        "course_name": "Business Intelligence and Analytics",
-        "slug": "business-intelligence-and-analytics"
+      "college": 1,
+      "department": 64,
+      "course_id": "OIM350",
+      "course_name": "Business Intelligence and Analytics",
+      "slug": "business-intelligence-and-analytics"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 170,
     "fields": {
-        "college": 1,
-        "department": 64,
-        "course_id": "OIM390ST",
-        "course_name": "Business Data Visualization",
-        "slug": "business-data-visualization"
+      "college": 1,
+      "department": 64,
+      "course_id": "OIM390ST",
+      "course_name": "Business Data Visualization",
+      "slug": "business-data-visualization"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 171,
     "fields": {
-        "college": 1,
-        "department": 64,
-        "course_id": "OIM411",
-        "course_name": "Supply Chain Analytics",
-        "slug": "supply-chain-analytics"
+      "college": 1,
+      "department": 64,
+      "course_id": "OIM411",
+      "course_name": "Supply Chain Analytics",
+      "slug": "supply-chain-analytics"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 172,
     "fields": {
-        "college": 1,
-        "department": 64,
-        "course_id": "OIM412",
-        "course_name": "Supply Chain Management",
-        "slug": "supply-chain-management"
+      "college": 1,
+      "department": 64,
+      "course_id": "OIM412",
+      "course_name": "Supply Chain Management",
+      "slug": "supply-chain-management"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 173,
     "fields": {
-        "college": 1,
-        "department": 64,
-        "course_id": "OIM420",
-        "course_name": "High Performance Organizations",
-        "slug": "high-performance-organizations"
+      "college": 1,
+      "department": 64,
+      "course_id": "OIM420",
+      "course_name": "High Performance Organizations",
+      "slug": "high-performance-organizations"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 174,
     "fields": {
-        "college": 1,
-        "department": 64,
-        "course_id": "OIM451",
-        "course_name": "Information & Project Management",
-        "slug": "information-project-management"
+      "college": 1,
+      "department": 64,
+      "course_id": "OIM451",
+      "course_name": "Information & Project Management",
+      "slug": "information-project-management"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 175,
     "fields": {
-        "college": 1,
-        "department": 64,
-        "course_id": "OIM452",
-        "course_name": "Business Processes & Enterprise Systems",
-        "slug": "business-processes-enterprise-systems"
+      "college": 1,
+      "department": 64,
+      "course_id": "OIM452",
+      "course_name": "Business Processes & Enterprise Systems",
+      "slug": "business-processes-enterprise-systems"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 176,
     "fields": {
-        "college": 1,
-        "department": 64,
-        "course_id": "OIM454",
-        "course_name": "Data Mining in Business: An Introduction",
-        "slug": "data-mining-in-business-an-introduction"
+      "college": 1,
+      "department": 64,
+      "course_id": "OIM454",
+      "course_name": "Data Mining in Business: An Introduction",
+      "slug": "data-mining-in-business-an-introduction"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 177,
     "fields": {
-        "college": 1,
-        "department": 56,
-        "course_id": "MATH131",
-        "course_name": "Calculus I",
-        "slug": "calculus-i"
+      "college": 1,
+      "department": 56,
+      "course_id": "MATH131",
+      "course_name": "Calculus I",
+      "slug": "calculus-i"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 178,
     "fields": {
-        "college": 1,
-        "department": 56,
-        "course_id": "MATH132",
-        "course_name": "Calculus II",
-        "slug": "calculus-ii"
+      "college": 1,
+      "department": 56,
+      "course_id": "MATH132",
+      "course_name": "Calculus II",
+      "slug": "calculus-ii"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 179,
     "fields": {
-        "college": 1,
-        "department": 56,
-        "course_id": "MATH233",
-        "course_name": "Multivariable Calculus",
-        "slug": "multivariable-calculus"
+      "college": 1,
+      "department": 56,
+      "course_id": "MATH233",
+      "course_name": "Multivariable Calculus",
+      "slug": "multivariable-calculus"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 180,
     "fields": {
-        "college": 1,
-        "department": 56,
-        "course_id": "MATH235",
-        "course_name": "Introduction to Linear Algebra",
-        "slug": "introduction-to-linear-algebra"
+      "college": 1,
+      "department": 56,
+      "course_id": "MATH235",
+      "course_name": "Introduction to Linear Algebra",
+      "slug": "introduction-to-linear-algebra"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 181,
     "fields": {
-        "college": 1,
-        "department": 56,
-        "course_id": "MATH300",
-        "course_name": "Fundamental Concepts of Mathematics",
-        "slug": "fundamental-concepts-of-mathematics"
+      "college": 1,
+      "department": 56,
+      "course_id": "MATH300",
+      "course_name": "Fundamental Concepts of Mathematics",
+      "slug": "fundamental-concepts-of-mathematics"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 182,
     "fields": {
-        "college": 1,
-        "department": 56,
-        "course_id": "MATH370",
-        "course_name": "Writing in Mathematics",
-        "slug": "writing-in-mathematics"
+      "college": 1,
+      "department": 56,
+      "course_id": "MATH370",
+      "course_name": "Writing in Mathematics",
+      "slug": "writing-in-mathematics"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 183,
     "fields": {
-        "college": 1,
-        "department": 56,
-        "course_id": "STAT108",
-        "course_name": "Foundations of Data Science",
-        "slug": "foundations-of-data-science"
+      "college": 1,
+      "department": 56,
+      "course_id": "STAT108",
+      "course_name": "Foundations of Data Science",
+      "slug": "foundations-of-data-science"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 184,
     "fields": {
-        "college": 1,
-        "department": 56,
-        "course_id": "STAT111",
-        "course_name": "Elementary Statistics",
-        "slug": "elementary-statistics"
+      "college": 1,
+      "department": 56,
+      "course_id": "STAT111",
+      "course_name": "Elementary Statistics",
+      "slug": "elementary-statistics"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 185,
     "fields": {
-        "college": 1,
-        "department": 56,
-        "course_id": "STAT240",
-        "course_name": "Intro to Statistics",
-        "slug": "intro-to-statistics"
+      "college": 1,
+      "department": 56,
+      "course_id": "STAT240",
+      "course_name": "Intro to Statistics",
+      "slug": "intro-to-statistics"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 186,
     "fields": {
-        "college": 1,
-        "department": 56,
-        "course_id": "MATH 331",
-        "course_name": "Ordinary Differential Equations",
-        "slug": "ordinary-differential-equations"
+      "college": 1,
+      "department": 56,
+      "course_id": "MATH 331",
+      "course_name": "Ordinary Differential Equations",
+      "slug": "ordinary-differential-equations"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 187,
     "fields": {
-        "college": 1,
-        "department": 56,
-        "course_id": "MATH411",
-        "course_name": "Introduction to Abstract Algebra I",
-        "slug": "introduction-to-abstract-algebra-i"
+      "college": 1,
+      "department": 56,
+      "course_id": "MATH411",
+      "course_name": "Introduction to Abstract Algebra I",
+      "slug": "introduction-to-abstract-algebra-i"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 188,
     "fields": {
-        "college": 1,
-        "department": 56,
-        "course_id": "MATH412",
-        "course_name": "Introduction to Abstract Algebra II",
-        "slug": "introduction-to-abstract-algebra-ii"
+      "college": 1,
+      "department": 56,
+      "course_id": "MATH412",
+      "course_name": "Introduction to Abstract Algebra II",
+      "slug": "introduction-to-abstract-algebra-ii"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 189,
     "fields": {
-        "college": 1,
-        "department": 56,
-        "course_id": "MATH421",
-        "course_name": "Complex Variables",
-        "slug": "complex-variables"
+      "college": 1,
+      "department": 56,
+      "course_id": "MATH421",
+      "course_name": "Complex Variables",
+      "slug": "complex-variables"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 190,
     "fields": {
-        "college": 1,
-        "department": 56,
-        "course_id": "MATH437",
-        "course_name": "Actuarial Financial Math",
-        "slug": "actuarial-financial-math"
+      "college": 1,
+      "department": 56,
+      "course_id": "MATH437",
+      "course_name": "Actuarial Financial Math",
+      "slug": "actuarial-financial-math"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 191,
     "fields": {
-        "college": 1,
-        "department": 56,
-        "course_id": "MATH513",
-        "course_name": "Combinatorics",
-        "slug": "combinatorics"
+      "college": 1,
+      "department": 56,
+      "course_id": "MATH513",
+      "course_name": "Combinatorics",
+      "slug": "combinatorics"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 192,
     "fields": {
-        "college": 1,
-        "department": 56,
-        "course_id": "MATH523",
-        "course_name": "Introduction to Modern Analysis",
-        "slug": "introduction-to-modern-analysis"
+      "college": 1,
+      "department": 56,
+      "course_id": "MATH523",
+      "course_name": "Introduction to Modern Analysis",
+      "slug": "introduction-to-modern-analysis"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 193,
     "fields": {
-        "college": 1,
-        "department": 56,
-        "course_id": "STAT501",
-        "course_name": "Methods of Applied Statistics",
-        "slug": "methods-of-applied-statistics"
+      "college": 1,
+      "department": 56,
+      "course_id": "STAT501",
+      "course_name": "Methods of Applied Statistics",
+      "slug": "methods-of-applied-statistics"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 194,
     "fields": {
-        "college": 1,
-        "department": 56,
-        "course_id": "STAT515",
-        "course_name": "Introduction to Statistics I",
-        "slug": "introduction-to-statistics-i"
+      "college": 1,
+      "department": 56,
+      "course_id": "STAT515",
+      "course_name": "Introduction to Statistics I",
+      "slug": "introduction-to-statistics-i"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 195,
     "fields": {
-        "college": 1,
-        "department": 56,
-        "course_id": "STAT516",
-        "course_name": "Introduction to Statistics II",
-        "slug": "introduction-to-statistics-ii"
+      "college": 1,
+      "department": 56,
+      "course_id": "STAT516",
+      "course_name": "Introduction to Statistics II",
+      "slug": "introduction-to-statistics-ii"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 196,
     "fields": {
-        "college": 1,
-        "department": 56,
-        "course_id": "STAT525",
-        "course_name": "Regressions and Analysis of Variance",
-        "slug": "regressions-and-analysis-of-variance"
+      "college": 1,
+      "department": 56,
+      "course_id": "STAT525",
+      "course_name": "Regressions and Analysis of Variance",
+      "slug": "regressions-and-analysis-of-variance"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 197,
     "fields": {
-        "college": 1,
-        "department": 56,
-        "course_id": "STAT526",
-        "course_name": "Design of Experiments",
-        "slug": "design-of-experiments"
+      "college": 1,
+      "department": 56,
+      "course_id": "STAT526",
+      "course_name": "Design of Experiments",
+      "slug": "design-of-experiments"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 198,
     "fields": {
-        "college": 1,
-        "department": 56,
-        "course_id": "STAT535",
-        "course_name": "Statistical Computing",
-        "slug": "statistical-computing"
+      "college": 1,
+      "department": 56,
+      "course_id": "STAT535",
+      "course_name": "Statistical Computing",
+      "slug": "statistical-computing"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 199,
     "fields": {
-        "college": 1,
-        "department": 56,
-        "course_id": "MATH537",
-        "course_name": "Intro to Mathematics of Finance",
-        "slug": "intro-to-mathematics-of-finance"
+      "college": 1,
+      "department": 56,
+      "course_id": "MATH537",
+      "course_name": "Intro to Mathematics of Finance",
+      "slug": "intro-to-mathematics-of-finance"
     }
-},
-{
+  },
+  {
     "model": "colleges.course",
     "pk": 200,
     "fields": {
-        "college": 1,
-        "department": 56,
-        "course_id": "MATH397C",
-        "course_name": "Mathematical Computing",
-        "slug": "mathematical-computing"
+      "college": 1,
+      "department": 56,
+      "course_id": "MATH397C",
+      "course_name": "Mathematical Computing",
+      "slug": "mathematical-computing"
     }
-}
+  },
+  {
+    "model": "colleges.course",
+    "pk": 201,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "AFROAM118",
+      "course_name": "Survey of Afro-American Lit II",
+      "slug": "survey-of-afro-american-lit-ii"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 202,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "AFROAM151",
+      "course_name": "Literature & Culture",
+      "slug": "literature-culture"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 203,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "AFROAM234",
+      "course_name": "Lit. Harlem Renaissance",
+      "slug": "lit-harlem-renaissance"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 204,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "AFROAM345",
+      "course_name": "Southern Literature",
+      "slug": "southern-literature"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 205,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "ASIANST375",
+      "course_name": "Chinese SciFi in Translation",
+      "slug": "chinese-scifi-in-translation"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 206,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "CLASSICS263",
+      "course_name": "Greek & Roman Echoes/the Ages",
+      "slug": "greek-roman-echoes-the-ages"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 207,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "COMPLIT100",
+      "course_name": "International Horror",
+      "slug": "international-horror"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 208,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "COMPLIT121",
+      "course_name": "International Short Story",
+      "slug": "international-short-story"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 209,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "COMPLIT122",
+      "course_name": "Spiritual Autobiogrp",
+      "slug": "spiritual-autobiogrp"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 210,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "COMPLIT130",
+      "course_name": "Translation Matters",
+      "slug": "translation-matters"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 211,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "COMPLIT131",
+      "course_name": "Brave New World",
+      "slug": "brave-new-world"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 212,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "COMPLIT133",
+      "course_name": "Intro to Science Fiction",
+      "slug": "intro-to-science-fiction"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 213,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "COMPLIT135",
+      "course_name": "Intro/Graphic Novel",
+      "slug": "intro-graphic-novel"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 214,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "COMPLIT141",
+      "course_name": "Good and Evil",
+      "slug": "good-and-evil"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 215,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "COMPLIT141H",
+      "course_name": "Good & Evil",
+      "slug": "good-evil"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 216,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "COMPLIT231",
+      "course_name": "Comedy",
+      "slug": "comedy"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 217,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "COMPLIT233",
+      "course_name": "International Fantasy",
+      "slug": "international-fantasy"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 218,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "ENGLISH115",
+      "course_name": "American Experience",
+      "slug": "american-experience"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 219,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "ENGLISH116",
+      "course_name": "Native American Literature",
+      "slug": "native-american-literature"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 220,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "ENGLISH117",
+      "course_name": "Ethnic American Literature",
+      "slug": "ethnic-american-literature"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 221,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "ENGLISH131",
+      "course_name": "Society and Literature",
+      "slug": "society-and-literature"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 222,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "ENGLISH132",
+      "course_name": "Gender, Sexuality, Lit & Cultr",
+      "slug": "gender-sexuality-lit-cultr"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 223,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "ENGLISH141",
+      "course_name": "Reading Poetry",
+      "slug": "reading-poetry"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 224,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "ENGLISH221",
+      "course_name": "Shakespeare",
+      "slug": "shakespeare"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 225,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "ENGLISH254",
+      "course_name": "Writ&Readg Imag Lit",
+      "slug": "writ-readg-imag-lit"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 226,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "ENGLISH279",
+      "course_name": "Intro to American Studies",
+      "slug": "intro-to-american-studies"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 227,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "ENGLISH362",
+      "course_name": "Mod Novel 1945-Prsnt",
+      "slug": "mod-novel-1945-prsnt"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 228,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "GREEK310",
+      "course_name": "Classical Greek Poetry: Homer",
+      "slug": "classical-greek-poetry-homer"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 229,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "HONORS224H",
+      "course_name": "America At War",
+      "slug": "america-at-war"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 230,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "JAPANESE143",
+      "course_name": "Lit-Classical & Medieval",
+      "slug": "lit-classical-medieval"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 231,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "JAPANESE144",
+      "course_name": "Japan Lit-Modern",
+      "slug": "japan-lit-modern"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 232,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "PHIL100",
+      "course_name": "Introduction To Philosophy",
+      "slug": "introduction-to-philosophy"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 233,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "PHIL336",
+      "course_name": "Existential Philosophy",
+      "slug": "existential-philosophy"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 234,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "SPANISH320",
+      "course_name": "Lit Currnts-Spain I",
+      "slug": "lit-currnts-spain-i"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 235,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "SPANISH321",
+      "course_name": "Literary Currents-Spain II",
+      "slug": "literary-currents-spain-ii"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 236,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "SPANISH323",
+      "course_name": "Spanish American Literature II",
+      "slug": "spanish-american-literature-ii"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 237,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "SPANISH324",
+      "course_name": "Introduction to Latino/a Lit",
+      "slug": "introduction-to-latino-a-lit"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 238,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "THEATER130",
+      "course_name": "Cntm Playwr Of Color",
+      "slug": "cntm-playwr-of-color"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 239,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "THEATER130H",
+      "course_name": "Contemp Playwrights/Color Hons",
+      "slug": "contemp-playwrights-color-hons"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 240,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "AFROAM156",
+      "course_name": "Rev Concepts in Afr.Am.Music",
+      "slug": "rev-concepts-in-afr-am-music"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 241,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "ART104",
+      "course_name": "Basic Studio/Drawing",
+      "slug": "basic-studio-drawing"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 242,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "ARTHIST110",
+      "course_name": "Survey: Renaissance-Modern Art",
+      "slug": "survey-renaissance-modern-art"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 243,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "ARTHIST118",
+      "course_name": "History/Architecture&BuiltEnvr",
+      "slug": "history-architecture-builtenvr"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 244,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "ARTHIST213",
+      "course_name": "Venice: Art, History & Envir",
+      "slug": "venice-art-history-envir"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 245,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "CLASSICS103",
+      "course_name": "Intro/AncientMediterrArchaeol",
+      "slug": "intro-ancientmediterrarchaeol"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 246,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "CLASSICS202",
+      "course_name": "The Age of Augustus",
+      "slug": "the-age-of-augustus"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 247,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "COMPLIT170",
+      "course_name": "Intro/FilmAnalysis:TimeTravel",
+      "slug": "intro-filmanalysis-timetravel"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 248,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "COMPLIT337",
+      "course_name": "Int. History of Animation",
+      "slug": "int-history-of-animation"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 249,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "COMPLIT381",
+      "course_name": "Self-ReflectiveAvant-GardeFilm",
+      "slug": "self-reflectiveavant-gardefilm"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 250,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "FILMST284",
+      "course_name": "The Undead Souths",
+      "slug": "the-undead-souths"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 251,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "FILMST353",
+      "course_name": "African Film",
+      "slug": "african-film"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 252,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "HONORS221H",
+      "course_name": "The Springfield Renaissance",
+      "slug": "the-springfield-renaissance"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 253,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "ITALIAN251",
+      "course_name": "HipHop&Identity/Contemp Italy",
+      "slug": "hiphop-identity-contemp-italy"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 254,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "JOURNAL333",
+      "course_name": "Intro to Visual Storytelling",
+      "slug": "intro-to-visual-storytelling"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 255,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "MUSIC100",
+      "course_name": "Appreciation-Intro",
+      "slug": "appreciation-intro"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 256,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "MUSIC101",
+      "course_name": "Literature Of Music",
+      "slug": "literature-of-music"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 257,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "MUSIC102",
+      "course_name": "Afro-American Music",
+      "slug": "afro-american-music"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 258,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "MUSIC150",
+      "course_name": "Lively Arts",
+      "slug": "lively-arts"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 259,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "PHIL160",
+      "course_name": "Introduction To Ethics",
+      "slug": "introduction-to-ethics"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 260,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "PHIL163",
+      "course_name": "Business Ethics",
+      "slug": "business-ethics"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 261,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "PHIL164",
+      "course_name": "Medical Ethics",
+      "slug": "medical-ethics"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 262,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "THEATER190J",
+      "course_name": "The Voice as Social Justice",
+      "slug": "the-voice-as-social-justice"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 263,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "ANTHRO103",
+      "course_name": "Human Origins and Variation",
+      "slug": "human-origins-and-variation"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 264,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "BIOLOGY105",
+      "course_name": "Biology of Social Issues",
+      "slug": "biology-of-social-issues"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 265,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "BIOLOGY105H",
+      "course_name": "Biology of Social Issues Hnrs",
+      "slug": "biology-of-social-issues-hnrs"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 266,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "BIOLOGY110",
+      "course_name": "Intro Biology - Science Majors",
+      "slug": "intro-biology-science-majors"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 267,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "BIOLOGY151",
+      "course_name": "Introductory Biology I",
+      "slug": "introductory-biology-i"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 268,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "DANCE241",
+      "course_name": "Scientific Foundations/Dance I",
+      "slug": "scientific-foundations-dance-i"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 269,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "FOODSCI150",
+      "course_name": "The Science Of Food",
+      "slug": "the-science-of-food"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 270,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "KIN100",
+      "course_name": "Introduction to Kinesiology",
+      "slug": "introduction-to-kinesiology"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 271,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "KIN110",
+      "course_name": "Human Performance & Nutrition",
+      "slug": "human-performance-nutrition"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 272,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "KIN110H",
+      "course_name": "Human Performnce & Nutrtn",
+      "slug": "human-performnce-nutrtn"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 273,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "MICROBIO140P",
+      "course_name": "Plagues, Poxes, and Pandemics",
+      "slug": "plagues-poxes-and-pandemics"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 274,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "MICROBIO160",
+      "course_name": "Biology of Cancer and AIDS",
+      "slug": "biology-of-cancer-and-aids"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 275,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "NRC126",
+      "course_name": "Insects & Human Society",
+      "slug": "insects-human-society"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 276,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "NUTRITN130",
+      "course_name": "Nutrition/Healthy Lifestyle",
+      "slug": "nutrition-healthy-lifestyle"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 277,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "STOCKSCH105",
+      "course_name": "Soils",
+      "slug": "soils"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 278,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "STOCKSCH120",
+      "course_name": "Organic Farming and Gardening",
+      "slug": "organic-farming-and-gardening"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 279,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "STOCKSCH171",
+      "course_name": "Plagues, Food and People: Eco",
+      "slug": "plagues-food-and-people-eco"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 280,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "ENGLWRIT112",
+      "course_name": "College Writing",
+      "slug": "college-writing"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 281,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "ANTHRO102",
+      "course_name": "Intro/ArchaeologyHumansPast&Pr",
+      "slug": "intro-archaeologyhumanspast-pr"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 282,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "ANTHRO104",
+      "course_name": "Culture, Society and People",
+      "slug": "culture-society-and-people"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 283,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "ANTHRO150",
+      "course_name": "Ancient Civilizations",
+      "slug": "ancient-civilizations"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 284,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "ANTHRO210",
+      "course_name": "Economies & Cultures",
+      "slug": "economies-cultures"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 285,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "ARCH211",
+      "course_name": "The City",
+      "slug": "the-city"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 286,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "CLASSICS330",
+      "course_name": "Magic/AncientMediterraneanWrld",
+      "slug": "magic-ancientmediterraneanwrld"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 287,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "EDUC229",
+      "course_name": "International Education",
+      "slug": "international-education"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 288,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "GEOGRAPH102",
+      "course_name": "Intro/Human Geography",
+      "slug": "intro-human-geography"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 289,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "GEOGRAPH220",
+      "course_name": "World Regional Geography",
+      "slug": "world-regional-geography"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 290,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "GERMAN376",
+      "course_name": "The Holocaust",
+      "slug": "the-holocaust"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 291,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "HISTORY111",
+      "course_name": "World History since 1500",
+      "slug": "world-history-since-1500"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 292,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "HISTORY112",
+      "course_name": "Intro to World Religions",
+      "slug": "intro-to-world-religions"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 293,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "HISTORY112H",
+      "course_name": "Intro to World Religions Hons",
+      "slug": "intro-to-world-religions-hons"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 294,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "HISTORY115",
+      "course_name": "China: 1600 to Present",
+      "slug": "china-1600-to-present"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 295,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "HISTORY120",
+      "course_name": "Latin America: Colonial Period",
+      "slug": "latin-america-colonial-period"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 296,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "HISTORY121",
+      "course_name": "Modern Latin America",
+      "slug": "modern-latin-america"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 297,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "HISTORY131",
+      "course_name": "Middle East History II",
+      "slug": "middle-east-history-ii"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 298,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "HISTORY155",
+      "course_name": "Making/AtlanticWorld 1400-1800",
+      "slug": "making-atlanticworld-1400-1800"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 299,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "HISTORY247",
+      "course_name": "Empire, Race & the Philippines",
+      "slug": "empire-race-the-philippines"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 300,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "HISTORY281",
+      "course_name": "Global History of Soccer",
+      "slug": "global-history-of-soccer"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 301,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "HISTORY411",
+      "course_name": "History of Science Activism",
+      "slug": "history-of-science-activism"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 302,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "HONORS252H",
+      "course_name": "Cross Cultural Prep Seminar",
+      "slug": "cross-cultural-prep-seminar"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 303,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "JOURNAL310",
+      "course_name": "International Journalism",
+      "slug": "international-journalism"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 304,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "JUDAIC101",
+      "course_name": "The Jewish Experience I",
+      "slug": "the-jewish-experience-i"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 305,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "JUDAIC102",
+      "course_name": "The Jewish Experience II",
+      "slug": "the-jewish-experience-ii"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 306,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "JUDAIC365",
+      "course_name": "Anti-Semitism/Hist Perspective",
+      "slug": "anti-semitism-hist-perspective"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 307,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "JUDAIC385",
+      "course_name": "Russian Jews",
+      "slug": "russian-jews"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 308,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "LLC125",
+      "course_name": "Intercultural Communication",
+      "slug": "intercultural-communication"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 309,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "MIDEAST220",
+      "course_name": "Mideast & the World: 1400-1800",
+      "slug": "mideast-the-world-1400-1800"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 310,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "MIDEAST361",
+      "course_name": "Sufism: Islamic Mystical Trad",
+      "slug": "sufism-islamic-mystical-trad"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 311,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "POLISCI111",
+      "course_name": "Comparative Politics",
+      "slug": "comparative-politics"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 312,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "POLISCI121",
+      "course_name": "World Politics",
+      "slug": "world-politics"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 313,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "RESECON121",
+      "course_name": "Hunger in a Global Economy",
+      "slug": "hunger-in-a-global-economy"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 314,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "SPANISH322",
+      "course_name": "Intro Span Amer Lit",
+      "slug": "intro-span-amer-lit"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 315,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "SUSTCOMM232",
+      "course_name": "HistorySustainableCommunityDev",
+      "slug": "historysustainablecommunitydev"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 316,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "AFROAM133",
+      "course_name": "African-Amer Hist,Cv War-1954",
+      "slug": "african-amer-hist-cv-war-1954"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 317,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "AFROAM170",
+      "course_name": "Grassroot Exp Amer Lfe & Cul I",
+      "slug": "grassroot-exp-amer-lfe-cul-i"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 318,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "AFROAM236",
+      "course_name": "Hist of  the Civil Rights Mvmt",
+      "slug": "hist-of-the-civil-rights-mvmt"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 319,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "AFROAM326",
+      "course_name": "Black Women in U.S. History",
+      "slug": "black-women-in-u-s-history"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 320,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "ANTHRO269",
+      "course_name": "North American Archaeology",
+      "slug": "north-american-archaeology"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 321,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "COMM212",
+      "course_name": "Cultural Codes in Comm",
+      "slug": "cultural-codes-in-comm"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 322,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "COMMDIS100",
+      "course_name": "Intro: Communication Disorders",
+      "slug": "intro-communication-disorders"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 323,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "EDUC115",
+      "course_name": "Embracing Diversity",
+      "slug": "embracing-diversity"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 324,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "EDUC167",
+      "course_name": "Education and Film",
+      "slug": "education-and-film"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 325,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "EDUC210",
+      "course_name": "Social Diversity in Education",
+      "slug": "social-diversity-in-education"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 326,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "ENGLISH150",
+      "course_name": "Writing and Society",
+      "slug": "writing-and-society"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 327,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "ENGLWRIT111",
+      "course_name": "Writing, Identity, and Power",
+      "slug": "writing-identity-and-power"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 328,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "HISTORY170",
+      "course_name": "IndigenousPeoples/NorthAmerica",
+      "slug": "indigenouspeoples-northamerica"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 329,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "HISTORY242H",
+      "course_name": "American Fam/Hist. Persp Hons",
+      "slug": "american-fam-hist-persp-hons"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 330,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "HISTORY265",
+      "course_name": "US LGBT & Queer History",
+      "slug": "us-lgbt-queer-history"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 331,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "HONORS201H",
+      "course_name": "Ideas That Change the World",
+      "slug": "ideas-that-change-the-world"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 332,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "HONORS321H",
+      "course_name": "Violence in American Culture",
+      "slug": "violence-in-american-culture"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 333,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "HONORS322H",
+      "course_name": "Criminal Law & Justice in US",
+      "slug": "criminal-law-justice-in-us"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 334,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "JOURNAL201",
+      "course_name": "Introduction To Journalism",
+      "slug": "introduction-to-journalism"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 335,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "JOURNAL250",
+      "course_name": "News Literacy",
+      "slug": "news-literacy"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 336,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "JOURNAL380",
+      "course_name": "AfroAmFreedmStruggle&thePress",
+      "slug": "afroamfreedmstruggle-thepress"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 337,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "LABOR280",
+      "course_name": "Labor & Work In The US",
+      "slug": "labor-work-in-the-us"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 338,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "LEGAL250",
+      "course_name": "Intro Legal Studies",
+      "slug": "intro-legal-studies"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 339,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "LINGUIST101",
+      "course_name": "People & Their Language",
+      "slug": "people-their-language"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 340,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "NURSING212",
+      "course_name": "CultrlDiversity/Health&Illness",
+      "slug": "cultrldiversity-health-illness"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 341,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "PUBHLTH129",
+      "course_name": "Health Care For All",
+      "slug": "health-care-for-all"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 342,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "PUBHLTH160",
+      "course_name": "My Body, My Health",
+      "slug": "my-body-my-health"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 343,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "PUBHLTH389",
+      "course_name": "Health Inequities",
+      "slug": "health-inequities"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 344,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "SOCIOL103",
+      "course_name": "Social Problems",
+      "slug": "social-problems"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 345,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "SOCIOL105",
+      "course_name": "Self,Soc&Inter Rel",
+      "slug": "self-soc-inter-rel"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 346,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "SOCIOL106",
+      "course_name": "Race,Gender, Class & Ethnicity",
+      "slug": "race-gender-class-ethnicity"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 347,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "SOCIOL107",
+      "course_name": "Contemporary American Society",
+      "slug": "contemporary-american-society"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 348,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "SOCIOL110",
+      "course_name": "Introduction to Sociology",
+      "slug": "introduction-to-sociology"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 349,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "SOCIOL201",
+      "course_name": "Women and Work",
+      "slug": "women-and-work"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 350,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "SOCIOL222",
+      "course_name": "The Family",
+      "slug": "the-family"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 351,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "SOCIOL224",
+      "course_name": "Social Class and Inequality",
+      "slug": "social-class-and-inequality"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 352,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "SOCIOL240",
+      "course_name": "The Asian American Experience",
+      "slug": "the-asian-american-experience"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 353,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "SPHHS150",
+      "course_name": "Great Challenges/SPHHS",
+      "slug": "great-challenges-sphhs"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 354,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "SPORTMGT200",
+      "course_name": "Sociology of Sport & Phys Act",
+      "slug": "sociology-of-sport-phys-act"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 355,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "SRVCLRNG293",
+      "course_name": "Learning Through Comm Engmnt",
+      "slug": "learning-through-comm-engmnt"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 356,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "WGSS187",
+      "course_name": "Gender, Sexuality and Culture",
+      "slug": "gender-sexuality-and-culture"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 357,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "WGSS286",
+      "course_name": "History/Sexuality&Race/US",
+      "slug": "history-sexuality-race-us"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 358,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "CLASSICS100",
+      "course_name": "Greek Civilization",
+      "slug": "greek-civilization"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 359,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "CLASSICS102",
+      "course_name": "Roman Civilization",
+      "slug": "roman-civilization"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 360,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "CLASSICS270",
+      "course_name": "Age of Empires: Bronze Age",
+      "slug": "age-of-empires-bronze-age"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 361,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "COMM325H",
+      "course_name": "Race, Media, & Politics-Honors",
+      "slug": "race-media-politics-honors"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 362,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "FRENCHST289",
+      "course_name": "Paris Through the Centuries",
+      "slug": "paris-through-the-centuries"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 363,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "FRENCHST386",
+      "course_name": "Origins To 1945",
+      "slug": "origins-to-1945"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 364,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "HISTORY101",
+      "course_name": "Western Thought Since 1600",
+      "slug": "western-thought-since-1600"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 365,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "HISTORY181",
+      "course_name": "Hist Western Sci&Technology II",
+      "slug": "hist-western-sci-technology-ii"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 366,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "HISTORY201",
+      "course_name": "Imperial America 1898-Present",
+      "slug": "imperial-america-1898-present"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 367,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "HISTORY204",
+      "course_name": "Ancient Rome",
+      "slug": "ancient-rome"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 368,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "HISTORY241",
+      "course_name": "The Irish Experience",
+      "slug": "the-irish-experience"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 369,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "HISTORY280",
+      "course_name": "History of Baseball in America",
+      "slug": "history-of-baseball-in-america"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 370,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "HISTORY373",
+      "course_name": "Amer Thought & Culture II",
+      "slug": "amer-thought-culture-ii"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 371,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "LINGUIST150",
+      "course_name": "Language Through Time",
+      "slug": "language-through-time"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 372,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "MILITARY290E",
+      "course_name": "American Military History",
+      "slug": "american-military-history"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 373,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "PHIL321",
+      "course_name": "History of Modern Philosophy",
+      "slug": "history-of-modern-philosophy"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 374,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "POLISCI201",
+      "course_name": "American Politics Through Film",
+      "slug": "american-politics-through-film"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 375,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "POLISCI203",
+      "course_name": "Amer Pol Thought",
+      "slug": "amer-pol-thought"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 376,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "POLISCI277",
+      "course_name": "Making a Global World",
+      "slug": "making-a-global-world"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 377,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "BCT150",
+      "course_name": "Sustainability/BuiltEnvironmnt",
+      "slug": "sustainability-builtenvironmnt"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 378,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "COMPLIT236",
+      "course_name": "Digital Culture",
+      "slug": "digital-culture"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 379,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "GERMAN379",
+      "course_name": "Germany Today",
+      "slug": "germany-today"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 380,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "ICONS189H",
+      "course_name": "Glob Challngs,Scientfc Solutns",
+      "slug": "glob-challngs-scientfc-solutns"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 381,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "NRC185",
+      "course_name": "SustainbleLivng:Solutions/21st",
+      "slug": "sustainblelivng-solutions-21st"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 382,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "SUSTCOMM205",
+      "course_name": "Dynamics of Human Habitation",
+      "slug": "dynamics-of-human-habitation"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 383,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "ASTRON100",
+      "course_name": "Exploring the Universe",
+      "slug": "exploring-the-universe"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 384,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "ASTRON101",
+      "course_name": "The Solar System",
+      "slug": "the-solar-system"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 385,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "ASTRON105",
+      "course_name": "Weather & Our Atmosphere",
+      "slug": "weather-our-atmosphere"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 386,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "CHEM111",
+      "course_name": "Gen Chem-Sci",
+      "slug": "gen-chem-sci"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 387,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "CHEM122H",
+      "course_name": "General Chemistry",
+      "slug": "general-chemistry"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 388,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "FOODSCI120",
+      "course_name": "Food Preservation-Why&How",
+      "slug": "food-preservation-why-how"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 389,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "GEOGRAPH110",
+      "course_name": "Global Environment Change",
+      "slug": "global-environment-change"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 390,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "GEOLOGY101",
+      "course_name": "The Earth",
+      "slug": "the-earth"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 391,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "GEOLOGY101H",
+      "course_name": "The Earth hons",
+      "slug": "the-earth-hons"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 392,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "GEOLOGY103",
+      "course_name": "Intro Oceanography",
+      "slug": "intro-oceanography"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 393,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "PHYSICS100",
+      "course_name": "Conceptual Physics",
+      "slug": "conceptual-physics"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 394,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "PHYSICS120",
+      "course_name": "Big Bang To Black Hole",
+      "slug": "big-bang-to-black-hole"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 395,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "PHYSICS131",
+      "course_name": "Intro Physics I",
+      "slug": "intro-physics-i"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 396,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "PHYSICS132",
+      "course_name": "Intro Physics II",
+      "slug": "intro-physics-ii"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 397,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "PHYSICS151",
+      "course_name": "General Physics I",
+      "slug": "general-physics-i"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 398,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "PHYSICS152",
+      "course_name": "General Physics II",
+      "slug": "general-physics-ii"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 399,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "PHYSICS182",
+      "course_name": "Physics II- Electricity & Magn",
+      "slug": "physics-ii-electricity-magn"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 400,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "MATH100",
+      "course_name": "Bsc Mth Skl/Mod Wrld",
+      "slug": "bsc-mth-skl-mod-wrld"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 401,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "MATH101",
+      "course_name": "P-Cal Alg-Func&Graph",
+      "slug": "p-cal-alg-func-graph"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 402,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "MATH102",
+      "course_name": "Analytic Geom & Trig",
+      "slug": "analytic-geom-trig"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 403,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "MATH104",
+      "course_name": "Alg/Analy Geom/Trig",
+      "slug": "alg-analy-geom-trig"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 404,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "ANTHRO281",
+      "course_name": "Stats in Anthropology using R",
+      "slug": "stats-in-anthropology-using-r"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 405,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "EDUC240",
+      "course_name": "Intro to Educational Statistcs",
+      "slug": "intro-to-educational-statistcs"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 406,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "LINGUIST201",
+      "course_name": "HowLanguageWorks:IntroLingThry",
+      "slug": "howlanguageworks-introlingthry"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 407,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "MATH113",
+      "course_name": "Math-Elem Tchrs I",
+      "slug": "math-elem-tchrs-i"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 408,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "MATH121",
+      "course_name": "Linear Meth&Prob Bus",
+      "slug": "linear-meth-prob-bus"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 409,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "MATH127",
+      "course_name": "Calc Life-Soc Sci I",
+      "slug": "calc-life-soc-sci-i"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 410,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "MUSIC110",
+      "course_name": "Fundamentals Of Theory",
+      "slug": "fundamentals-of-theory"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 411,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "NRC240",
+      "course_name": "Intro to Quantitative Ecology",
+      "slug": "intro-to-quantitative-ecology"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 412,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "PHIL105",
+      "course_name": "Practical Reasoning",
+      "slug": "practical-reasoning"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 413,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "PHIL110",
+      "course_name": "Introduction To Logic",
+      "slug": "introduction-to-logic"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 414,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "PSYCH240",
+      "course_name": "Statistics In Psychology",
+      "slug": "statistics-in-psychology"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 415,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "RESECON212",
+      "course_name": "Intro Stats/Soc Sci",
+      "slug": "intro-stats-soc-sci"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 416,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "SOCIOL212",
+      "course_name": "Elem Statistics",
+      "slug": "elem-statistics"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 417,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "SOCIOL261",
+      "course_name": "Population Studies",
+      "slug": "population-studies"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 418,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "STATISTC240",
+      "course_name": "Intro To Statistics",
+      "slug": "intro-to-statistics"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 419,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "STATISTC501",
+      "course_name": "Meth Applied Stats",
+      "slug": "meth-applied-stats"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 420,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "ANTHRO101",
+      "course_name": "Biology, Culture & Human Exp",
+      "slug": "biology-culture-human-exp"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 421,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "COMM245",
+      "course_name": "The Folklore of Alcohol",
+      "slug": "the-folklore-of-alcohol"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 422,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "COMM248",
+      "course_name": "The Folklore of New England",
+      "slug": "the-folklore-of-new-england"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 423,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "COMM271",
+      "course_name": "Humor and Comedy in Society",
+      "slug": "humor-and-comedy-in-society"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 424,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "ECON104H",
+      "course_name": "Intro To Macroecon",
+      "slug": "intro-to-macroecon"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 425,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "EDUC101",
+      "course_name": "Intro to Educ: Schooling/US",
+      "slug": "intro-to-educ-schooling-us"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 426,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "HUMANDEV270",
+      "course_name": "Child Development",
+      "slug": "child-development"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 427,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "PHIL166",
+      "course_name": "Environmental Ethics",
+      "slug": "environmental-ethics"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 428,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "PHIL170",
+      "course_name": "Problems in Social Thought",
+      "slug": "problems-in-social-thought"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 429,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "PHIL175",
+      "course_name": "Intro to Philosophy of Tech",
+      "slug": "intro-to-philosophy-of-tech"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 430,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "POLISCI101",
+      "course_name": "American Politics",
+      "slug": "american-politics"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 431,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "POLISCI171",
+      "course_name": "Intro to Political Theory",
+      "slug": "intro-to-political-theory"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 432,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "POLISCI255",
+      "course_name": "United States Foreign Policy",
+      "slug": "united-states-foreign-policy"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 433,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "POLISCI280",
+      "course_name": "Public Policy",
+      "slug": "public-policy"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 434,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "POLISCI290M",
+      "course_name": "American Politics/Music",
+      "slug": "american-politics-music"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 435,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "PORTUG309",
+      "course_name": "Brazilian Women",
+      "slug": "brazilian-women"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 436,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "PSYCH100",
+      "course_name": "Introductory Psychology",
+      "slug": "introductory-psychology"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 437,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "PSYCH209H",
+      "course_name": "Myths and Truths in Psychology",
+      "slug": "myths-and-truths-in-psychology"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 438,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "PUBHLTH307H",
+      "course_name": "Community-Based Inquiry, Hons",
+      "slug": "community-based-inquiry-hons"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 439,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "RESECON102",
+      "course_name": "Intro Resource Econ",
+      "slug": "intro-resource-econ"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 440,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "RESECON262",
+      "course_name": "Environmental Econ",
+      "slug": "environmental-econ"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 441,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "SOCIOL242",
+      "course_name": "Drugs & Society",
+      "slug": "drugs-society"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 442,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "SOCIOL244",
+      "course_name": "Sociology of Immigration",
+      "slug": "sociology-of-immigration"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 443,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "SOCIOL262",
+      "course_name": "Globalization and Inequality",
+      "slug": "globalization-and-inequality"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 444,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "SOCIOL281",
+      "course_name": "Society & Individual",
+      "slug": "society-individual"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 445,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "SRVCLRNG293H",
+      "course_name": "Learning/CommEngmnt",
+      "slug": "learning-commengmnt"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 446,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "SUSTCOMM125",
+      "course_name": "Global Cities & Global Issues",
+      "slug": "global-cities-global-issues"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 447,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "SUSTCOMM333",
+      "course_name": "Intro/CommunityEconDevelopment",
+      "slug": "intro-communityecondevelopment"
+    }
+  },
+  {
+    "model": "colleges.course",
+    "pk": 448,
+    "fields": {
+      "college": 1,
+      "department": null,
+      "course_id": "STOCKSCH172",
+      "course_name": "Plants in our World",
+      "slug": "plants-in-our-world"
+    }
+  }
 ]
